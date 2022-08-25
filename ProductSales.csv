@@ -1,0 +1,1304 @@
+RowId,Country,Region,CustID,CustName,ProductSold,SalesChannel,UnitsSold,DateSold,ProductID,ProductName,StdCost,StdPrice
+1,Hungary,Europe,24243,Lester Emerson,PURA200,Online,88,29/07/2016,PURA200,Pure Soft Detergent - 200ml,2,3.99
+2,Unknown,Unknown,24194,Thomas Douglas,SUPA102,Online,138,18/08/2016,SUPA102,Super Soft - 250ml,2.5,4.5
+3,Samoa ,Australia and Oceania,24062,Chloe Black,SUPA105,Direct,43,24/08/2016,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+5,Unknown,Unknown,24082,Evan York,PURA100,Retail,150,30/08/2016,PURA100,Pure Soft Detergent - 100ml,1.5,3
+6,Unknown,Unknown,24148,Rae Hurst,PURA250,Retail,58,11/09/2016,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+8,Unknown,Unknown,24128,Ori Cummings,PURA100,Online,183,15/09/2016,PURA100,Pure Soft Detergent - 100ml,1.5,3
+9,Unknown,Unknown,24075,Angelica Bridges,PURA250,Direct,4,19/09/2016,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+10,Afghanistan,Middle East and North Afr,24114,Vernon Daniels,SUPA105,Retail,179,02/10/2016,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+12,Fiji,Australia and Oceania,24094,Rhea Stokes,SUPA101,Retail,71,12/10/2016,SUPA101,Super Soft - Product Sample,0.3,0
+13,Armenia,Europe,24149,Tucker Klein,PURA100,Retail,142,15/10/2016,PURA100,Pure Soft Detergent - 100ml,1.5,3
+14,Unknown,Unknown,24089,Calista Osborn,PURA250,Retail,124,17/10/2016,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+15,Unknown,Unknown,24175,Lani Ferrell,PURA250,Retail,97,21/10/2016,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+16,Cyprus,Europe,24223,Brenda Hays,PURA200,Retail,106,02/11/2016,PURA200,Pure Soft Detergent - 200ml,2,3.99
+17,Czech Republic,Europe,24249,Jerome Hoffman,SUPA101,Retail,151,02/11/2016,SUPA101,Super Soft - Product Sample,0.3,0
+18,El Salvador,Central America and the C,24118,Brendan Cruz,PURA500,Retail,41,05/11/2016,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+20,Unknown,Unknown,24159,Sebastian Huber,SUPA102,Retail,40,08/11/2016,SUPA102,Super Soft - 250ml,2.5,4.5
+21,Tonga,Australia and Oceania,24256,Quail Knox,PURA500,Retail,43,11/11/2016,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+22,Unknown,Unknown,24180,Bree Acevedo,SUPA101,Direct,168,01/12/2016,SUPA101,Super Soft - Product Sample,0.3,0
+23,Philippines,Asia,24207,Oliver Cherry,SUPA101,Online,210,02/12/2016,SUPA101,Super Soft - Product Sample,0.3,0
+24,Unknown,Unknown,24155,George Mcpherson,SUPA102,Direct,44,06/12/2016,SUPA102,Super Soft - 250ml,2.5,4.5
+26,Botswana,Sub-Saharan Africa,24198,Stacy Schwartz,PURA200,Online,25,08/12/2016,PURA200,Pure Soft Detergent - 200ml,2,3.99
+27,Vanuatu,Australia and Oceania,24208,Ramona Munoz,PURA250,Retail,94,14/12/2016,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+28,Unknown,Unknown,24193,Lucius Figueroa,SUPA103,Direct,133,19/12/2016,SUPA103,Super Soft - 500ml,3.5,6.99
+29,Unknown,Unknown,24166,Amery David,PURA100,Online,191,27/12/2016,PURA100,Pure Soft Detergent - 100ml,1.5,3
+31,Gabon,Sub-Saharan Africa,24173,Adena Gates,SUPA104,Retail,136,27/12/2016,SUPA104,Super Soft - 1 Litre,5,9.99
+32,Unknown,Unknown,24136,Sandra Perry,SUPA103,Online,174,29/12/2016,SUPA103,Super Soft - 500ml,3.5,6.99
+33,Sierra Leone,Sub-Saharan Africa,24228,Hayley Williamson,PURA250,Direct,1,31/12/2016,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+34,Yemen,Middle East and North Afr,24069,Daphne Graves,PURA100,Retail,132,12/01/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+35,Pakistan,Middle East and North Afr,24104,Ignatius Petty,SUPA103,Online,169,22/01/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+36,Bhutan,Asia,24072,Adara Shields,SUPA104,Online,159,29/01/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+37,United Kingdom,Europe,24197,Alma Benson,PURA200,Retail,136,04/02/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+38,Japan,Asia,24240,Roary Gray,PURA250,Retail,44,05/02/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+39,Unknown,Unknown,24201,Elizabeth Schwartz,SUPA102,Retail,175,16/02/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+40,Andorra,Europe,24126,Samuel Tyler,PURA200,Retail,125,20/02/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+41,Nauru,Australia and Oceania,24209,Felicia Turner,SUPA103,Direct,142,20/02/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+42,Egypt,Middle East and North Afr,24142,Dacey Stark,PURA100,Retail,201,21/02/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+43,Palau,Australia and Oceania,24189,David Moses,SUPA101,Retail,3,25/02/2017,SUPA101,Super Soft - Product Sample,0.3,0
+44,Indonesia,Asia,24101,Fleur Mcdaniel,SUPA104,Retail,143,27/02/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+45,Iraq,Middle East and North Afr,24152,Amela Carpenter,SUPA101,Online,130,27/02/2017,SUPA101,Super Soft - Product Sample,0.3,0
+46,Iceland,Europe,24214,Leigh Little,SUPA104,Online,120,27/02/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+47,Sudan,Sub-Saharan Africa,24235,Florence Pennington,SUPA103,Retail,138,17/03/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+48,Austria,Europe,24182,Isabella Avery,SUPA103,Online,31,19/03/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+49,Azerbaijan,Middle East and North Afr,24221,Daphne Curry,SUPA103,Online,190,26/03/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+50,Unknown,Unknown,24174,Garrison Peters,PURA200,Direct,163,28/03/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+51,Burkina Faso,Sub-Saharan Africa,24120,Quinlan Hebert,PURA250,Online,99,30/03/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+52,Equatorial Guinea,Sub-Saharan Africa,24184,Lucius Wilkins,SUPA105,Online,135,02/04/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+53,Nauru,Australia and Oceania,24244,Bell Shaffer,PURA200,Direct,16,03/04/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+54,Burkina Faso,Sub-Saharan Africa,24130,Caldwell Caldwell,SUPA104,Online,84,04/04/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+55,Unknown,Unknown,23901,Jasper Shannon,PURA100,Online,169,06/04/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+56,Guinea,Sub-Saharan Africa,24019,Alfonso Shepherd,SUPA105,Retail,52,06/04/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+57,Somalia,Middle East and North Afr,24179,Hyatt Durham,PURA500,Online,190,08/04/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+58,Unknown,Unknown,24087,Tana Sharpe,PURA200,Retail,43,13/04/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+59,Italy,Europe,23885,Leigh Schultz,SUPA101,Online,146,14/04/2017,SUPA101,Super Soft - Product Sample,0.3,0
+60,Rwanda,Sub-Saharan Africa,24226,Cherokee Shaffer,PURA100,Retail,64,15/04/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+61,Latvia,Europe,24251,Deacon Williamson,PURA500,Retail,15,23/04/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+62,Nauru,Australia and Oceania,24073,Brock Sullivan,SUPA101,Retail,15,25/04/2017,SUPA101,Super Soft - Product Sample,0.3,0
+63,Unknown,Unknown,24233,Haviva Stevenson,SUPA102,Online,162,25/04/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+64,Norway,Europe,24065,Yeo Welch,PURA200,Direct,57,27/04/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+65,Swaziland,Sub-Saharan Africa,24098,Cally Pratt,SUPA104,Retail,77,27/04/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+66,Latvia,Europe,24246,Vivian Colon,SUPA104,Online,92,28/04/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+67,Unknown,Unknown,24183,Kitra Reilly,PURA100,Retail,51,29/04/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+68,Uzbekistan,Asia,23915,Janna Sears,SUPA101,Retail,134,05/05/2017,SUPA101,Super Soft - Product Sample,0.3,0
+69,Switzerland,Europe,24139,Connor Soto,PURA200,Retail,10,06/05/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+70,Jordan,Middle East and North Afr,24164,Tamekah Roach,PURA200,Direct,119,10/05/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+71,Turkey,Middle East and North Afr,23997,Regan Whitehead,PURA200,Retail,161,11/05/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+72,Unknown,Unknown,23929,Illana Mccall,SUPA104,Retail,47,15/05/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+73,Unknown,Unknown,24044,Beatrice Golden,PURA200,Retail,82,15/05/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+74,Unknown,Unknown,24135,Abigail Cunningham,SUPA103,Online,108,15/05/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+75,Rwanda,Sub-Saharan Africa,24222,Slade Russo,SUPA103,Online,3,15/05/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+76,Zimbabwe,Sub-Saharan Africa,23977,Nichole Weiss,PURA100,Retail,161,18/05/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+77,Czech Republic,Europe,23879,Savannah Everett,PURA100,Online,9,19/05/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+78,Costa Rica,Central America and the C,24081,Jameson Anderson,PURA100,Online,192,22/05/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+79,Moldova ,Europe,24163,Athena Faulkner,SUPA101,Online,84,22/05/2017,SUPA101,Super Soft - Product Sample,0.3,0
+80,Unknown,Unknown,24203,Gisela Gay,SUPA104,Direct,39,22/05/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+81,Belize,Central America and the C,23875,Leah Kline,PURA100,Online,92,24/05/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+82,Barbados,Central America and the C,24127,Kyra Pollard,SUPA102,Retail,25,24/05/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+83,Honduras,Central America and the C,24231,Rose Baker,PURA250,Retail,33,24/05/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+84,Unknown,Unknown,24162,Irene Beach,PURA200,Online,61,26/05/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+85,Egypt,Middle East and North Afr,24225,Clementine Hewitt,PURA100,Online,141,26/05/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+86,Unknown,Unknown,24259,Lester Fisher,PURA500,Online,138,26/05/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+87,Unknown,Unknown,23913,Eve Gill,SUPA102,Online,6,28/05/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+88,Andorra,Europe,24116,Jackson Gallegos,PURA100,Online,153,31/05/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+89,Sao Tome and Principe,Sub-Saharan Africa,23966,Sonya Shaw,SUPA103,Online,167,01/06/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+90,Unknown,Unknown,24047,Allen Caldwell,SUPA104,Online,58,01/06/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+91,Unknown,Unknown,24239,Victor Suarez,PURA200,Retail,201,01/06/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+92,Ukraine,Europe,24195,Robin Stuart,SUPA101,Direct,132,03/06/2017,SUPA101,Super Soft - Product Sample,0.3,0
+93,Guinea,Sub-Saharan Africa,24079,Maxwell Workman,PURA500,Retail,129,04/06/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+94,Andorra,Europe,23896,Lyle Lawson,SUPA102,Retail,3,05/06/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+95,Unknown,Unknown,24102,Adrienne Mack,SUPA102,Online,183,06/06/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+96,Nauru,Australia and Oceania,24187,Cara Salazar,PURA250,Online,81,08/06/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+97,Unknown,Unknown,24178,Regan Kirk,PURA100,Online,80,10/06/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+98,Togo,Sub-Saharan Africa,24091,Perry Livingston,PURA500,Retail,187,11/06/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+99,Togo,Sub-Saharan Africa,24003,Sybill Mendoza,SUPA104,Retail,62,12/06/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+100,Unknown,Unknown,23905,Rogan Best,PURA500,Retail,56,18/06/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+101,Unknown,Unknown,23970,Alma Higgins,PURA100,Online,148,19/06/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+102,Croatia,Europe,24147,Jackson Rivas,SUPA101,Retail,12,24/06/2017,SUPA101,Super Soft - Product Sample,0.3,0
+103,Unknown,Unknown,24050,Melyssa Sawyer,SUPA102,Online,147,28/06/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+104,Bosnia and Herzegovina,Europe,24029,Theodore Wells,PURA100,Retail,98,29/06/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+105,Unknown,Unknown,23964,Ruth Mathews,PURA100,Retail,141,30/06/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+110,Unknown,Unknown,24035,Jamalia Sims,SUPA104,Retail,91,03/07/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+111,Unknown,Unknown,23953,Ferdinand Holder,PURA100,Retail,164,05/07/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+112,Luxembourg,Europe,24051,Charissa Olsen,SUPA101,Retail,74,07/07/2017,SUPA101,Super Soft - Product Sample,0.3,0
+113,Unknown,Unknown,23950,Wendy Norris,PURA200,Online,93,10/07/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+114,Ukraine,Europe,23843,Burke Rojas,SUPA103,Online,211,11/07/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+115,Finland,Europe,24057,Maris Cantrell,SUPA101,Online,5,11/07/2017,SUPA101,Super Soft - Product Sample,0.3,0
+116,Unknown,Unknown,24134,Howard Colon,SUPA103,Online,47,12/07/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+117,Unknown,Unknown,23867,Elaine Le,SUPA102,Retail,132,13/07/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+118,Samoa ,Australia and Oceania,23873,Leroy Russo,PURA200,Online,41,15/07/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+119,Bulgaria,Europe,24115,Anne Rivers,SUPA104,Online,169,18/07/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+120,Unknown,Unknown,23988,Logan Gates,SUPA104,Retail,81,20/07/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+121,Unknown,Unknown,23870,Forrest Hayes,PURA200,Online,210,23/07/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+122,Malaysia,Asia,23928,Maisie Witt,SUPA103,Retail,74,24/07/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+123,Unknown,Unknown,23789,Gray Moss,SUPA101,Online,47,27/07/2017,SUPA101,Super Soft - Product Sample,0.3,0
+124,Cyprus,Europe,23692,Yuri Huber,PURA100,Retail,207,30/07/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+125,Unknown,Unknown,24001,Emerald Rojas,PURA200,Direct,83,30/07/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+126,Unknown,Unknown,24046,Lois Mcdowell,PURA500,Retail,68,30/07/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+127,Singapore,Asia,23690,Rooney Wolfe,SUPA105,Retail,91,31/07/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+128,Swaziland,Sub-Saharan Africa,23926,Fletcher Savage,SUPA105,Online,152,02/08/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+129,Antigua and Barbuda ,Central America and the C,24137,Lana Good,SUPA102,Direct,68,02/08/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+130,Unknown,Unknown,24042,Macey Shaw,PURA250,Online,170,03/08/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+131,Swaziland,Sub-Saharan Africa,23678,Georgia Good,PURA250,Online,7,06/08/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+132,Haiti,Central America and the C,24043,Amethyst Dotson,SUPA101,Retail,42,06/08/2017,SUPA101,Super Soft - Product Sample,0.3,0
+133,Morocco,Middle East and North Afr,23954,Sarah Leblanc,PURA100,Retail,106,07/08/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+134,Qatar,Middle East and North Afr,23759,Raya Guthrie,PURA250,Direct,82,12/08/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+135,Italy,Europe,23903,Dillon Carlson,SUPA102,Retail,2,12/08/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+136,Guatemala,Central America and the C,24143,Ursula Salinas,SUPA103,Online,13,17/08/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+137,Zambia,Sub-Saharan Africa,23677,Destiny Fisher,PURA250,Retail,149,18/08/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+138,Belgium,Europe,23795,Ori Sparks,PURA200,Online,115,19/08/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+139,Iraq,Middle East and North Afr,23882,Drake Gibson,SUPA101,Online,180,20/08/2017,SUPA101,Super Soft - Product Sample,0.3,0
+140,Czech Republic,Europe,24124,August Levy,PURA100,Online,159,21/08/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+141,Georgia,Europe,23786,Yen Graves,PURA500,Online,194,23/08/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+142,Macedonia,Europe,24191,Addison Doyle,SUPA103,Online,127,23/08/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+143,Mongolia,Asia,23863,Sara Parrish,PURA100,Retail,184,24/08/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+144,Belgium,Europe,23868,Azalia Riddle,SUPA102,Online,141,24/08/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+145,Unknown,Unknown,24141,Stephen Herring,PURA250,Direct,203,24/08/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+146,Unknown,Unknown,24129,Cairo Boyer,PURA200,Retail,197,25/08/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+147,Unknown,Unknown,23971,Paki Richmond,PURA250,Retail,114,26/08/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+148,Samoa ,Australia and Oceania,24200,Frances Hammond,PURA250,Direct,148,28/08/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+149,Saint Lucia,Central America and the C,23784,Pascale Sanchez,PURA500,Online,86,31/08/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+150,Trinidad and Tobago,Central America and the C,23693,Yvonne Shepard,PURA100,Retail,132,01/09/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+151,Slovakia,Europe,23980,Armando Huber,SUPA101,Online,52,01/09/2017,SUPA101,Super Soft - Product Sample,0.3,0
+152,Unknown,Unknown,24157,Gloria Talley,PURA250,Direct,132,01/09/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+153,Unknown,Unknown,23682,Yuri Rice,PURA100,Retail,200,02/09/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+154,Benin,Sub-Saharan Africa,23766,Lani Fox,SUPA101,Online,75,02/09/2017,SUPA101,Super Soft - Product Sample,0.3,0
+155,Poland,Europe,23945,Audrey Wiggins,PURA500,Direct,183,03/09/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+156,Qatar,Middle East and North Afr,23909,Cassady Scott,SUPA103,Online,66,04/09/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+157,Unknown,Unknown,23791,Aileen Hunter,SUPA103,Retail,33,05/09/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+158,Greece,Europe,24245,Shoshana Wilkinson,SUPA102,Retail,138,07/09/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+159,Canada,North America,24018,Willa Strong,SUPA103,Retail,37,08/09/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+160,Honduras,Central America and the C,24110,Nicole Mcgowan,SUPA102,Online,39,08/09/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+161,Unknown,Unknown,24026,Sandra Odonnell,PURA100,Online,210,09/09/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+162,Tajikistan,Asia,24196,Joelle Johns,SUPA104,Online,13,09/09/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+163,Unknown,Unknown,23671,Hadassah Hodge,SUPA104,Retail,99,10/09/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+164,Burundi,Sub-Saharan Africa,24060,Kibo Gibbs,PURA100,Retail,14,12/09/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+165,Unknown,Unknown,23761,Velma Sanford,PURA250,Online,198,15/09/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+166,Gabon,Sub-Saharan Africa,23866,Tatyana Ingram,PURA200,Online,69,15/09/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+167,Unknown,Unknown,24158,Risa Decker,PURA500,Online,38,18/09/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+168,Unknown,Unknown,23709,Ina Chang,SUPA105,Online,164,19/09/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+169,Unknown,Unknown,23919,Desiree Booth,PURA100,Retail,120,19/09/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+170,New Zealand,Australia and Oceania,23697,Joelle Kidd,PURA250,Retail,84,20/09/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+171,New Zealand,Australia and Oceania,23749,Britanni Brown,PURA250,Direct,139,20/09/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+172,Kuwait,Middle East and North Afr,23912,Chaney Myers,SUPA104,Online,39,22/09/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+173,Poland,Europe,24205,Priscilla Quinn,PURA250,Direct,198,24/09/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+174,Trinidad and Tobago,Central America and the C,23699,Graham Paul,SUPA102,Online,183,25/09/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+175,Slovenia,Europe,23677,Destiny Fisher,SUPA105,Retail,22,27/09/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+176,Unknown,Unknown,23986,Darrel Harrell,PURA100,Online,61,29/09/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+177,Botswana,Sub-Saharan Africa,24090,Macaulay Meadows,PURA250,Retail,42,30/09/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+178,Trinidad and Tobago,Central America and the C,24213,Lance Durham,SUPA104,Online,155,02/10/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+179,Armenia,Europe,23890,Astra Terry,PURA500,Retail,184,03/10/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+180,Solomon Islands,Australia and Oceania,23934,Knox Fox,PURA100,Online,166,03/10/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+181,Mongolia,Asia,24024,Olga Young,PURA200,Online,208,03/10/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+182,Unknown,Unknown,24040,Sonya Leon,SUPA103,Retail,155,03/10/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+183,Unknown,Unknown,23810,Josephine Oliver,SUPA105,Online,171,04/10/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+184,Iceland,Europe,24008,Devin Shepard,PURA250,Online,139,04/10/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+185,Singapore,Asia,24071,Aimee Sparks,SUPA105,Direct,38,06/10/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+186,Swaziland,Sub-Saharan Africa,23787,Selma Coffey,PURA500,Online,29,07/10/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+187,Greece,Europe,24216,Hollee Briggs,PURA200,Retail,11,07/10/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+188,Belgium,Europe,24241,Otto Golden,PURA250,Retail,36,07/10/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+189,Unknown,Unknown,23854,Hector Mcfadden,PURA100,Retail,189,10/10/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+190,Cambodia,Asia,24066,Simon Keith,SUPA103,Retail,34,10/10/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+191,Trinidad and Tobago,Central America and the C,23552,Bruno Miles,PURA250,Online,162,14/10/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+192,Maldives,Asia,23857,Shelby Hendrix,PURA100,Online,45,15/10/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+193,Tuvalu,Australia and Oceania,23838,Karina Riddle,SUPA102,Retail,133,16/10/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+194,Equatorial Guinea,Sub-Saharan Africa,24002,Ciara Burks,PURA200,Online,22,16/10/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+195,Unknown,Unknown,24188,Oliver Wolf,PURA200,Retail,185,17/10/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+196,Macedonia,Europe,23598,Brock Howell,SUPA103,Online,190,19/10/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+197,Romania,Europe,24064,Bruce Summers,SUPA101,Retail,38,20/10/2017,SUPA101,Super Soft - Product Sample,0.3,0
+198,Botswana,Sub-Saharan Africa,24067,Quamar Albert,PURA200,Online,4,23/10/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+199,Unknown,Unknown,24109,Elliott Lawrence,PURA250,Retail,182,24/10/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+200,Bosnia and Herzegovina,Europe,24096,Mira Bolton,SUPA103,Retail,54,25/10/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+201,Bosnia and Herzegovina,Europe,23657,Aimee James,PURA250,Retail,196,26/10/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+202,Saint Lucia,Central America and the C,23707,Georgia Ford,SUPA102,Direct,202,26/10/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+203,Unknown,Unknown,24140,Basil Foley,PURA250,Online,58,26/10/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+204,Armenia,Europe,24077,Samson Bishop,SUPA104,Retail,61,28/10/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+205,Unknown,Unknown,24258,Kuame Wallace,SUPA103,Retail,80,28/10/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+206,Azerbaijan,Middle East and North Afr,24250,Maia Schmidt,SUPA102,Direct,11,29/10/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+207,Unknown,Unknown,23505,Tarik Barber,SUPA104,Online,189,30/10/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+208,Kazakhstan,Asia,23918,Ian Mcdaniel,PURA200,Direct,204,31/10/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+209,Mauritius ,Sub-Saharan Africa,23746,Dakota Conner,PURA200,Retail,10,01/11/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+211,Central African Republic,Sub-Saharan Africa,24052,Althea Good,SUPA101,Retail,189,01/11/2017,SUPA101,Super Soft - Product Sample,0.3,0
+212,Unknown,Unknown,24053,Anthony Foster,PURA250,Online,104,02/11/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+213,South Africa,Sub-Saharan Africa,23694,Sybill Rivers,PURA250,Retail,175,03/11/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+214,Haiti,Central America and the C,23936,Felicia Alvarez,SUPA102,Online,195,04/11/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+215,Sri Lanka,Asia,23948,Olympia Contreras,PURA100,Online,170,04/11/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+216,Ethiopia,Sub-Saharan Africa,23581,William Hale,PURA200,Online,75,05/11/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+217,Mali,Sub-Saharan Africa,24248,Clayton Gomez,SUPA101,Direct,144,05/11/2017,SUPA101,Super Soft - Product Sample,0.3,0
+218,Nauru,Australia and Oceania,23862,Chastity Reynolds,SUPA104,Online,25,06/11/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+219,Uganda,Sub-Saharan Africa,24144,Hakeem Singleton,SUPA102,Online,168,06/11/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+220,Unknown,Unknown,23652,Amela Summers,SUPA101,Retail,191,08/11/2017,SUPA101,Super Soft - Product Sample,0.3,0
+225,Unknown,Unknown,24215,Denise Harrington,PURA100,Direct,171,08/11/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+226,Switzerland,Europe,23656,Audrey Chase,SUPA105,Online,206,09/11/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+227,Antigua and Barbuda ,Central America and the C,24138,Brian Trevino,SUPA105,Retail,108,09/11/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+228,Georgia,Europe,23494,Kay Dixon,PURA250,Online,77,12/11/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+229,Barbados,Central America and the C,23991,Scarlett Padilla,SUPA101,Retail,55,13/11/2017,SUPA101,Super Soft - Product Sample,0.3,0
+230,Belgium,Europe,23647,Walker Sweeney,PURA200,Online,148,14/11/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+231,Unknown,Unknown,23881,Fitzgerald Fleming,PURA200,Retail,104,14/11/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+232,Australia,Australia and Oceania,23957,Lana Hunter,SUPA101,Online,81,15/11/2017,SUPA101,Super Soft - Product Sample,0.3,0
+233,Myanmar,Asia,24123,Odette Mills,PURA100,Online,18,15/11/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+234,Haiti,Central America and the C,24234,Selma Roach,SUPA103,Online,204,15/11/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+235,Unknown,Unknown,23825,Reece Hodge,PURA500,Online,182,18/11/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+236,Sri Lanka,Asia,23488,Geoffrey Browning,SUPA102,Online,134,19/11/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+237,Unknown,Unknown,23623,Joel Gallegos,PURA200,Online,181,21/11/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+238,Uzbekistan,Asia,23695,Acton Ratliff,PURA100,Online,152,22/11/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+239,Unknown,Unknown,24027,Paloma Duran,SUPA103,Direct,156,22/11/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+240,Jordan,Middle East and North Afr,23798,Blythe Simpson,SUPA105,Retail,177,23/11/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+241,Bangladesh,Asia,24168,Howard Hinton,PURA250,Retail,99,24/11/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+242,Unknown,Unknown,24212,Karyn Nolan,SUPA102,Retail,15,25/11/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+243,Unknown,Unknown,23584,Brittany Fletcher,SUPA102,Retail,11,26/11/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+244,Denmark,Europe,24017,Ignatius Contreras,PURA250,Online,208,26/11/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+245,Unknown,Unknown,23635,Amela Fowler,SUPA101,Online,115,27/11/2017,SUPA101,Super Soft - Product Sample,0.3,0
+246,Costa Rica,Central America and the C,23911,Sandra Rios,PURA100,Online,180,27/11/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+247,Mauritius ,Sub-Saharan Africa,23999,Eden Padilla,SUPA103,Retail,94,28/11/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+248,Burkina Faso,Sub-Saharan Africa,23280,James Spencer,SUPA103,Online,30,29/11/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+249,Unknown,Unknown,23582,Griffin Grimes,PURA100,Retail,146,30/11/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+250,Hungary,Europe,23933,Kenneth Bolton,SUPA104,Online,208,30/11/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+251,Bangladesh,Asia,24230,Iliana Dawson,SUPA101,Online,84,30/11/2017,SUPA101,Super Soft - Product Sample,0.3,0
+252,Denmark,Europe,23620,Bradley Fowler,PURA200,Direct,197,01/12/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+253,Sierra Leone,Sub-Saharan Africa,23893,Barclay Guerrero,SUPA105,Direct,46,01/12/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+254,Samoa ,Australia and Oceania,23951,Sasha Morton,PURA500,Online,10,01/12/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+255,Unknown,Unknown,23539,Gemma Rodriguez,PURA250,Online,172,02/12/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+256,Unknown,Unknown,23660,Quemby Romero,PURA500,Retail,189,03/12/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+257,Macedonia,Europe,23269,Jane Hernandez,PURA100,Direct,116,04/12/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+258,Portugal,Europe,23645,Lucius James,SUPA104,Online,1,04/12/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+259,Australia,Australia and Oceania,23941,Autumn Brock,SUPA102,Online,54,04/12/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+260,Pakistan,Middle East and North Afr,23694,Sybill Rivers,SUPA103,Online,194,08/12/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+261,Unknown,Unknown,23998,Knox Tillman,PURA250,Online,127,08/12/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+262,Unknown,Unknown,24165,Luke Malone,SUPA105,Online,54,08/12/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+263,Comoros,Sub-Saharan Africa,23683,Harding Blackwell,PURA250,Online,160,09/12/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+264,Unknown,Unknown,23720,Akeem Madden,PURA100,Retail,58,09/12/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+265,Unknown,Unknown,23828,Marah Ashley,SUPA101,Online,115,09/12/2017,SUPA101,Super Soft - Product Sample,0.3,0
+266,Sweden,Europe,23993,Cooper Guy,PURA100,Online,161,09/12/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+267,Sri Lanka,Asia,23481,Gray Ortega,SUPA103,Online,20,10/12/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+268,Lesotho,Sub-Saharan Africa,24092,Clare Barry,SUPA104,Retail,147,12/12/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+269,Tunisia ,Middle East and North Afr,23543,Celeste Ochoa,SUPA101,Retail,137,13/12/2017,SUPA101,Super Soft - Product Sample,0.3,0
+270,Lebanon,Middle East and North Afr,23880,Burke Vinson,SUPA102,Retail,96,13/12/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+271,Botswana,Sub-Saharan Africa,23872,Colin Vazquez,SUPA105,Online,67,16/12/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+272,Zambia,Sub-Saharan Africa,24190,Stacy Hickman,PURA500,Online,185,16/12/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+273,Macedonia,Europe,23628,Erich Little,PURA500,Online,169,17/12/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+274,Sri Lanka,Asia,24122,Zenia Carr,PURA250,Direct,125,18/12/2017,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+275,Ireland,Europe,23548,Breanna Pacheco,SUPA102,Direct,142,20/12/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+276,Cambodia,Asia,23920,Erica Vargas,PURA500,Online,196,21/12/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+277,Unknown,Unknown,23578,Sigourney Riddle,SUPA101,Retail,119,23/12/2017,SUPA101,Super Soft - Product Sample,0.3,0
+278,Uganda,Sub-Saharan Africa,23785,Emma Waller,PURA100,Online,109,23/12/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+279,Unknown,Unknown,23464,Zorita Hodge,SUPA105,Retail,181,24/12/2017,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+280,Somalia,Middle East and North Afr,23602,Wendy Hull,PURA500,Retail,107,24/12/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+281,Unknown,Unknown,23792,Vincent Bauer,PURA500,Online,31,24/12/2017,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+282,Solomon Islands,Australia and Oceania,23304,Deanna Santana,PURA200,Direct,131,25/12/2017,PURA200,Pure Soft Detergent - 200ml,2,3.99
+283,Barbados,Central America and the C,24059,Cade Pace,SUPA101,Direct,129,25/12/2017,SUPA101,Super Soft - Product Sample,0.3,0
+284,Mauritania,Sub-Saharan Africa,23685,Jennifer Harrington,SUPA101,Retail,61,26/12/2017,SUPA101,Super Soft - Product Sample,0.3,0
+285,Guinea-Bissau,Sub-Saharan Africa,23717,Hayden Fulton,SUPA104,Retail,93,27/12/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+286,United Kingdom,Europe,23742,Britanney Knapp,SUPA104,Retail,193,27/12/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+287,Solomon Islands,Australia and Oceania,23632,Sophia Palmer,PURA100,Online,75,28/12/2017,PURA100,Pure Soft Detergent - 100ml,1.5,3
+288,Zimbabwe,Sub-Saharan Africa,23715,Ignacia Cantu,SUPA102,Retail,119,28/12/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+289,Unknown,Unknown,23429,Lacota Hinton,SUPA104,Retail,144,29/12/2017,SUPA104,Super Soft - 1 Litre,5,9.99
+290,Mongolia,Asia,24084,Hayley Chaney,SUPA103,Retail,135,29/12/2017,SUPA103,Super Soft - 500ml,3.5,6.99
+291,Unknown,Unknown,24028,Gisela Mckee,SUPA102,Retail,181,30/12/2017,SUPA102,Super Soft - 250ml,2.5,4.5
+292,Panama,Central America and the C,23560,Doris Mccormick,SUPA101,Retail,212,01/01/2018,SUPA101,Super Soft - Product Sample,0.3,0
+293,Unknown,Unknown,23705,Jameson Sawyer,PURA250,Retail,155,01/01/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+294,Zimbabwe,Sub-Saharan Africa,23608,Ainsley Chan,SUPA101,Direct,116,02/01/2018,SUPA101,Super Soft - Product Sample,0.3,0
+295,Honduras,Central America and the C,23594,Drake Williamson,SUPA104,Online,60,03/01/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+296,Ukraine,Europe,23955,Ethan Colon,PURA200,Retail,26,03/01/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+297,Vanuatu,Australia and Oceania,23524,Haley Tucker,PURA250,Online,115,04/01/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+298,Antigua and Barbuda ,Central America and the C,23681,Bruno Durham,SUPA105,Direct,6,05/01/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+299,Kazakhstan,Asia,24103,Leigh Matthews,PURA500,Direct,25,05/01/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+300,Comoros,Sub-Saharan Africa,23493,Mohammad Mills,SUPA101,Retail,176,06/01/2018,SUPA101,Super Soft - Product Sample,0.3,0
+301,Chad,Sub-Saharan Africa,23531,Danielle Hardy,PURA100,Direct,7,07/01/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+302,Unknown,Unknown,23960,Brennan Lee,SUPA104,Retail,78,07/01/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+303,Chad,Sub-Saharan Africa,23513,Baker Johnson,PURA500,Direct,78,08/01/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+304,Unknown,Unknown,24150,Laura Holloway,SUPA101,Retail,46,08/01/2018,SUPA101,Super Soft - Product Sample,0.3,0
+305,Bahrain,Middle East and North Afr,23996,Patricia Stanley,PURA100,Retail,58,09/01/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+306,Australia,Australia and Oceania,24181,Brenda Wolfe,SUPA102,Retail,12,09/01/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+307,Denmark,Europe,23450,Lewis Hall,SUPA101,Retail,100,10/01/2018,SUPA101,Super Soft - Product Sample,0.3,0
+308,Spain,Europe,23917,Shellie Dean,SUPA105,Online,106,10/01/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+309,Unknown,Unknown,23526,Jason Hoffman,SUPA103,Retail,44,12/01/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+311,Rwanda,Sub-Saharan Africa,24133,Leila Mason,SUPA105,Online,42,12/01/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+312,Mongolia,Asia,23673,Ifeoma Crane,SUPA103,Online,180,13/01/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+313,Unknown,Unknown,23659,Judah Erickson,PURA500,Online,209,14/01/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+314,Unknown,Unknown,23312,Thomas Barnes,PURA200,Retail,28,15/01/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+315,El Salvador,Central America and the C,23340,Lael Gould,SUPA102,Retail,85,15/01/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+316,Austria,Europe,23558,Rogan Garner,SUPA104,Online,164,18/01/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+317,Unknown,Unknown,23748,Jaime Reilly,SUPA103,Online,23,18/01/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+318,Antigua and Barbuda ,Central America and the C,24012,Yvette Sosa,SUPA101,Retail,133,18/01/2018,SUPA101,Super Soft - Product Sample,0.3,0
+319,Unknown,Unknown,24161,Susan Fisher,SUPA103,Online,185,19/01/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+320,Canada,North America,23310,Kenyon Joyce,SUPA104,Retail,41,21/01/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+321,Morocco,Middle East and North Afr,23508,Vera Turner,PURA100,Online,34,21/01/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+322,Egypt,Middle East and North Afr,23594,Drake Williamson,PURA100,Retail,192,21/01/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+323,Dominican Republic,Central America and the C,23967,Hedy Murray,SUPA104,Retail,143,21/01/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+324,Unknown,Unknown,23644,Sandra Whitfield,PURA100,Retail,158,23/01/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+325,Kuwait,Middle East and North Afr,23590,Charles Boyle,SUPA104,Online,148,25/01/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+326,Japan,Asia,23468,Maxwell Hoffman,SUPA105,Retail,41,26/01/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+327,Unknown,Unknown,23489,Nichole Vinson,SUPA105,Online,101,26/01/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+328,Czech Republic,Europe,24093,Gage Rivera,SUPA102,Online,53,26/01/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+329,Poland,Europe,23621,Indigo Mullins,PURA500,Retail,34,27/01/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+330,Unknown,Unknown,23676,Ralph Carroll,PURA200,Retail,86,28/01/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+331,Pakistan,Middle East and North Afr,23801,Deirdre Mccullough,SUPA104,Retail,194,28/01/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+332,Bosnia and Herzegovina,Europe,23874,Marvin Oneil,SUPA101,Online,61,29/01/2018,SUPA101,Super Soft - Product Sample,0.3,0
+333,Cyprus,Europe,23629,Serina Hall,PURA200,Online,7,31/01/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+334,Morocco,Middle East and North Afr,23738,Burke Frank,SUPA105,Retail,89,31/01/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+335,Jamaica,Central America and the C,23790,Sylvia Fry,SUPA104,Online,114,01/02/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+336,Angola,Sub-Saharan Africa,23293,Britanni Bender,SUPA101,Retail,117,02/02/2018,SUPA101,Super Soft - Product Sample,0.3,0
+337,Liberia,Sub-Saharan Africa,23576,Nicole Heath,PURA250,Online,199,02/02/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+338,New Zealand,Australia and Oceania,23982,Lillian Pitts,SUPA105,Direct,67,03/02/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+339,Andorra,Europe,23447,Lewis Lester,SUPA103,Online,147,04/02/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+340,Afghanistan,Middle East and North Afr,24113,Octavia Flowers,SUPA103,Online,5,04/02/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+341,Unknown,Unknown,23387,Ashely Macdonald,SUPA104,Online,118,06/02/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+342,Ethiopia,Sub-Saharan Africa,23581,William Hale,SUPA102,Online,180,06/02/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+343,Yemen,Middle East and North Afr,23569,Donna Jacobson,PURA250,Direct,62,07/02/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+344,Jordan,Middle East and North Afr,23577,Harper Zimmerman,PURA500,Direct,98,07/02/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+345,Swaziland,Sub-Saharan Africa,23615,Mannix Le,PURA250,Online,27,07/02/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+361,Pakistan,Middle East and North Afr,23681,Bruno Durham,SUPA105,Direct,155,07/02/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+362,Unknown,Unknown,23783,Alice Lara,PURA100,Retail,127,07/02/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+363,Algeria,Middle East and North Afr,23528,Serena Buckner,PURA200,Direct,41,08/02/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+364,Malta,Europe,23629,Serina Hall,SUPA105,Direct,31,08/02/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+365,Guinea-Bissau,Sub-Saharan Africa,23837,Lamar Rodriquez,SUPA103,Retail,151,09/02/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+366,Cameroon,Sub-Saharan Africa,23359,Kyra Harding,SUPA101,Online,19,11/02/2018,SUPA101,Super Soft - Product Sample,0.3,0
+367,Moldova ,Europe,23490,Dustin Meyer,SUPA102,Retail,173,11/02/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+368,Ireland,Europe,23507,Martena Hunt,SUPA103,Online,211,11/02/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+369,Qatar,Middle East and North Afr,23888,Hop Gomez,SUPA105,Online,132,11/02/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+370,New Zealand,Australia and Oceania,24237,Tamara Hodges,PURA100,Direct,110,11/02/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+371,Malta,Europe,23317,Kay Buckley,PURA250,Online,196,12/02/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+372,Comoros,Sub-Saharan Africa,23492,Alisa Kemp,SUPA104,Online,200,13/02/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+373,Belarus,Europe,23569,Donna Jacobson,SUPA104,Online,18,14/02/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+374,Belarus,Europe,23684,Kieran Charles,SUPA105,Online,151,14/02/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+375,China,Asia,23812,Elvis Watkins,SUPA103,Online,189,14/02/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+376,Albania,Europe,23404,Cedric Rivera,SUPA101,Retail,73,16/02/2018,SUPA101,Super Soft - Product Sample,0.3,0
+377,Cameroon,Sub-Saharan Africa,23620,Bradley Fowler,SUPA104,Retail,129,16/02/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+378,Benin,Sub-Saharan Africa,23730,Savannah Meyer,PURA200,Retail,144,16/02/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+379,Denmark,Europe,23815,Rashad Clay,SUPA103,Online,85,16/02/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+380,Georgia,Europe,23588,Lois Weber,PURA100,Direct,93,18/02/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+381,Mali,Sub-Saharan Africa,23684,Kieran Charles,SUPA105,Online,186,18/02/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+382,Saint Kitts and Nevis ,Central America and the C,24041,Patience Mcclain,PURA500,Online,35,18/02/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+383,Switzerland,Europe,23401,Maia Mitchell,SUPA104,Retail,205,19/02/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+384,Belarus,Europe,23636,Carol Mckenzie,PURA100,Retail,108,19/02/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+385,Burundi,Sub-Saharan Africa,23754,Hermione Rogers,PURA250,Online,66,19/02/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+386,Solomon Islands,Australia and Oceania,23904,Dean Galloway,PURA250,Retail,149,19/02/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+387,Grenada,Central America and the C,23635,Amela Fowler,PURA100,Direct,188,20/02/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+388,Algeria,Middle East and North Afr,23708,Kevin Dejesus,SUPA102,Online,126,20/02/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+389,Unknown,Unknown,23813,Vielka Leon,PURA100,Direct,161,20/02/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+390,Unknown,Unknown,23876,Mechelle Gutierrez,SUPA102,Direct,119,21/02/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+391,Cameroon,Sub-Saharan Africa,23962,Mollie Chaney,PURA500,Retail,17,21/02/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+392,Unknown,Unknown,24211,Eaton Shaffer,PURA100,Direct,129,21/02/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+393,Antigua and Barbuda ,Central America and the C,23484,Vaughan Bender,SUPA102,Retail,51,23/02/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+394,Malawi,Sub-Saharan Africa,23278,Aphrodite Brennan,SUPA105,Online,197,24/02/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+395,Uganda,Sub-Saharan Africa,23492,Alisa Kemp,SUPA104,Direct,189,24/02/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+396,Ireland,Europe,23370,Clark Orr,PURA100,Direct,85,25/02/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+397,Iceland,Europe,23516,Denton Mcintosh,SUPA103,Direct,8,25/02/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+398,Georgia,Europe,24210,Autumn Anthony,SUPA102,Retail,94,25/02/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+399,Unknown,Unknown,23593,Cassady Perkins,PURA500,Retail,202,26/02/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+400,Guatemala,Central America and the C,23636,Carol Mckenzie,SUPA103,Retail,167,26/02/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+401,Saudi Arabia,Middle East and North Afr,23938,Jennifer Montgomery,SUPA105,Retail,45,26/02/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+402,Ireland,Europe,23629,Serina Hall,PURA200,Online,11,27/02/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+403,Kuwait,Middle East and North Afr,23931,Merritt Sosa,PURA200,Online,138,27/02/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+404,Unknown,Unknown,23270,Wanda Garza,SUPA105,Retail,24,01/03/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+405,Unknown,Unknown,24085,Sybill Christensen,PURA200,Online,128,01/03/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+406,Nauru,Australia and Oceania,23463,Blaine Terry,PURA500,Online,202,02/03/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+407,Panama,Central America and the C,23635,Amela Fowler,SUPA103,Online,8,03/03/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+408,Israel,Middle East and North Afr,23486,Rajah Castillo,SUPA104,Online,41,06/03/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+409,Nigeria,Sub-Saharan Africa,23818,Brennan Mcclain,PURA100,Direct,93,06/03/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+410,Comoros,Sub-Saharan Africa,23930,Katelyn Finley,PURA200,Retail,189,06/03/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+442,Unknown,Unknown,24108,Gisela Lloyd,SUPA103,Online,42,07/03/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+443,Unknown,Unknown,23840,Noelle Buckley,SUPA103,Online,203,08/03/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+444,Mozambique,Sub-Saharan Africa,23476,Brielle Love,SUPA103,Direct,133,09/03/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+445,Romania,Europe,23548,Breanna Pacheco,PURA100,Online,135,10/03/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+446,Pakistan,Middle East and North Afr,23270,Wanda Garza,SUPA105,Online,5,11/03/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+447,Eritrea,Sub-Saharan Africa,23588,Lois Weber,SUPA103,Retail,177,11/03/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+448,Croatia,Europe,23594,Drake Williamson,PURA250,Retail,198,11/03/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+449,Turkey,Middle East and North Afr,23668,Jermaine Mcneil,PURA100,Retail,88,11/03/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+450,Central African Republic,Sub-Saharan Africa,23670,Davis Kennedy,SUPA105,Direct,47,11/03/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+451,Unknown,Unknown,23502,Doris Castillo,PURA100,Online,123,12/03/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+452,Azerbaijan,Middle East and North Afr,23581,William Hale,SUPA103,Retail,14,12/03/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+453,Mozambique,Sub-Saharan Africa,23620,Bradley Fowler,SUPA105,Direct,124,12/03/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+454,Unknown,Unknown,23626,Robert Snow,SUPA104,Online,17,12/03/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+455,Mali,Sub-Saharan Africa,23629,Serina Hall,SUPA104,Direct,79,12/03/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+456,Unknown,Unknown,24252,Wynne Poole,PURA250,Retail,170,12/03/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+457,Canada,North America,23486,Rajah Castillo,PURA200,Retail,148,13/03/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+458,Unknown,Unknown,23535,Mia Ferguson,SUPA104,Retail,159,14/03/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+459,Unknown,Unknown,23614,Shay Larson,PURA100,Online,172,14/03/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+460,Unknown,Unknown,23617,Noelle Rasmussen,SUPA104,Retail,191,14/03/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+461,Mauritius ,Sub-Saharan Africa,24100,Lareina Barton,SUPA102,Online,177,14/03/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+462,Unknown,Unknown,23319,Sylvester Roy,SUPA101,Online,4,15/03/2018,SUPA101,Super Soft - Product Sample,0.3,0
+463,Cape Verde,Sub-Saharan Africa,23374,Ebony Mercer,PURA200,Online,57,15/03/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+464,Belize,Central America and the C,23658,Raymond Noel,SUPA102,Online,88,15/03/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+465,Finland,Europe,23270,Wanda Garza,PURA500,Retail,76,16/03/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+466,Palau,Australia and Oceania,23355,Victoria Solis,PURA250,Online,16,16/03/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+467,Unknown,Unknown,23770,Paloma Vega,PURA500,Online,109,16/03/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+468,Unknown,Unknown,24112,Jermaine Wilson,SUPA103,Retail,20,16/03/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+473,Azerbaijan,Middle East and North Afr,23891,Tucker Hudson,PURA500,Retail,197,17/03/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+474,Liberia,Sub-Saharan Africa,24117,Kirestin Whitehead,SUPA105,Retail,199,17/03/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+475,Sierra Leone,Sub-Saharan Africa,23974,Ila Webb,SUPA102,Online,156,18/03/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+476,Kyrgyzstan,Asia,23270,Wanda Garza,SUPA103,Online,67,19/03/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+477,Tuvalu,Australia and Oceania,23614,Shay Larson,PURA200,Direct,29,19/03/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+478,Kyrgyzstan,Asia,23910,Zena Miranda,SUPA105,Online,82,19/03/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+479,Comoros,Sub-Saharan Africa,23652,Amela Summers,PURA200,Retail,129,21/03/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+480,Belize,Central America and the C,23690,Rooney Wolfe,SUPA104,Direct,14,21/03/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+481,Unknown,Unknown,23262,Candice Levy,SUPA101,Online,117,22/03/2018,SUPA101,Super Soft - Product Sample,0.3,0
+482,Poland,Europe,23886,Brielle Roberson,SUPA103,Direct,141,22/03/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+483,Netherlands,Europe,23947,Rebekah Farley,SUPA102,Direct,113,23/03/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+484,Senegal,Sub-Saharan Africa,23355,Victoria Solis,PURA200,Direct,97,24/03/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+485,Namibia,Sub-Saharan Africa,24206,Emerson Wilcox,PURA500,Retail,203,24/03/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+486,Singapore,Asia,23486,Rajah Castillo,SUPA103,Online,174,26/03/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+487,Panama,Central America and the C,23561,Cade Alvarado,PURA100,Online,66,26/03/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+488,Saint Lucia,Central America and the C,23488,Geoffrey Browning,PURA500,Online,41,27/03/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+489,Canada,North America,23658,Raymond Noel,PURA500,Retail,168,27/03/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+490,Eritrea,Sub-Saharan Africa,24010,Cruz Ray,SUPA102,Online,23,27/03/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+491,United Kingdom,Europe,24080,Clare Barnes,PURA200,Online,48,27/03/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+492,South Africa,Sub-Saharan Africa,23542,Kendall Harmon,SUPA102,Direct,123,28/03/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+493,Mauritius ,Sub-Saharan Africa,23561,Cade Alvarado,PURA200,Online,184,28/03/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+494,Slovenia,Europe,23326,Katelyn Joseph,SUPA102,Online,126,29/03/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+495,Madagascar,Sub-Saharan Africa,23684,Kieran Charles,PURA200,Direct,131,29/03/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+496,Vanuatu,Australia and Oceania,23972,Brent Cabrera,SUPA102,Online,192,29/03/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+497,South Africa,Sub-Saharan Africa,23265,Uriel Benton,SUPA104,Online,14,30/03/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+498,Luxembourg,Europe,23468,Maxwell Hoffman,SUPA105,Online,12,30/03/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+499,San Marino,Europe,23577,Harper Zimmerman,SUPA101,Retail,62,30/03/2018,SUPA101,Super Soft - Product Sample,0.3,0
+500,Lebanon,Middle East and North Afr,23887,Adam Blackburn,PURA200,Retail,201,30/03/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+501,Unknown,Unknown,23525,Sara Beck,PURA500,Online,167,31/03/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+502,Unknown,Unknown,23684,Kieran Charles,PURA500,Retail,103,31/03/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+503,Cyprus,Europe,23486,Rajah Castillo,PURA500,Retail,133,02/04/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+504,Nicaragua,Central America and the C,23969,Buffy Moore,PURA100,Retail,124,02/04/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+505,Latvia,Europe,23316,Robert Juarez,PURA250,Online,73,03/04/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+506,New Zealand,Australia and Oceania,23871,Maggie Howard,PURA250,Direct,152,03/04/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+507,Guinea,Sub-Saharan Africa,23884,Arden Atkinson,SUPA103,Online,109,03/04/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+508,Vanuatu,Australia and Oceania,24154,Sara Chaney,SUPA102,Online,54,04/04/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+509,Turkey,Middle East and North Afr,23445,Macy Stafford,SUPA102,Retail,163,05/04/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+510,Azerbaijan,Middle East and North Afr,23468,Maxwell Hoffman,SUPA103,Retail,184,05/04/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+512,Nepal,Asia,23483,Boris Maynard,SUPA101,Direct,122,05/04/2018,SUPA101,Super Soft - Product Sample,0.3,0
+513,Oman,Middle East and North Afr,23799,Yuli Jacobson,SUPA103,Online,64,05/04/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+514,Unknown,Unknown,23834,Hope Mcbride,SUPA102,Retail,23,05/04/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+515,Gabon,Sub-Saharan Africa,23478,Keelie Johns,SUPA102,Online,173,06/04/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+516,Sao Tome and Principe,Sub-Saharan Africa,23484,Vaughan Bender,PURA100,Online,174,06/04/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+517,United Arab Emirates,Middle East and North Afr,23636,Carol Mckenzie,PURA500,Retail,56,07/04/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+518,Namibia,Sub-Saharan Africa,23674,Dara Burch,SUPA102,Online,120,07/04/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+519,Fiji,Australia and Oceania,23681,Bruno Durham,SUPA101,Online,24,08/04/2018,SUPA101,Super Soft - Product Sample,0.3,0
+520,Unknown,Unknown,23719,Hall Callahan,SUPA105,Direct,183,08/04/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+521,Oman,Middle East and North Afr,23355,Victoria Solis,PURA250,Direct,81,09/04/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+522,Denmark,Europe,23731,Aurelia Jennings,PURA100,Online,104,09/04/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+523,Spain,Europe,23670,Davis Kennedy,SUPA104,Direct,192,10/04/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+524,Burkina Faso,Sub-Saharan Africa,23324,Noble Warner,SUPA104,Retail,193,11/04/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+525,Unknown,Unknown,23351,Nyssa Quinn,PURA200,Online,151,11/04/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+526,Madagascar,Sub-Saharan Africa,23354,Gwendolyn Mccarty,SUPA103,Retail,84,11/04/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+527,Ireland,Europe,23676,Ralph Carroll,PURA200,Direct,140,11/04/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+528,Japan,Asia,23687,Leroy Valdez,SUPA105,Retail,130,11/04/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+529,Vanuatu,Australia and Oceania,23283,Lani Sweet,SUPA105,Retail,142,12/04/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+530,Bahrain,Middle East and North Afr,23694,Sybill Rivers,SUPA102,Online,25,12/04/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+531,Germany,Europe,24204,Jacob Oconnor,SUPA105,Online,80,13/04/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+532,Qatar,Middle East and North Afr,23633,Azalia Ramos,PURA250,Online,61,14/04/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+533,Unknown,Unknown,23437,Gillian Santiago,PURA100,Retail,15,15/04/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+534,Unknown,Unknown,23356,Colette Sargent,PURA200,Direct,80,16/04/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+535,Albania,Europe,23710,Alexa Byrd,PURA250,Online,9,16/04/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+536,Eritrea,Sub-Saharan Africa,23802,Bruce French,SUPA103,Retail,49,16/04/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+537,Unknown,Unknown,24013,Sylvester Lopez,SUPA104,Online,68,16/04/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+538,Bangladesh,Asia,23343,Josiah Yates,SUPA104,Online,42,17/04/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+539,Australia,Australia and Oceania,23358,Joel Rivers,SUPA104,Online,41,19/04/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+540,Pakistan,Middle East and North Afr,23973,Kennan Winters,PURA100,Online,142,19/04/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+541,Croatia,Europe,24016,Megan Clemons,SUPA101,Online,63,19/04/2018,SUPA101,Super Soft - Product Sample,0.3,0
+542,Andorra,Europe,23491,Oscar Clay,PURA250,Retail,19,20/04/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+543,Iceland,Europe,23721,Montana Vincent,PURA250,Online,194,21/04/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+544,Japan,Asia,24217,Keegan Moses,SUPA104,Online,159,21/04/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+545,Japan,Asia,23543,Celeste Ochoa,SUPA104,Retail,145,22/04/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+546,Liberia,Sub-Saharan Africa,23551,Graiden Avery,SUPA102,Retail,17,22/04/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+547,Samoa ,Australia and Oceania,23664,Sybil Barker,SUPA101,Retail,180,22/04/2018,SUPA101,Super Soft - Product Sample,0.3,0
+548,Unknown,Unknown,24009,Riley Sellers,SUPA102,Retail,92,22/04/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+549,Guinea,Sub-Saharan Africa,24107,Herman Bryan,SUPA101,Online,29,22/04/2018,SUPA101,Super Soft - Product Sample,0.3,0
+550,Moldova ,Europe,23279,Angela Wise,PURA100,Online,10,23/04/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+551,Unknown,Unknown,23500,Kimberley Daniel,SUPA105,Online,8,23/04/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+552,Singapore,Asia,23569,Donna Jacobson,PURA200,Retail,9,23/04/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+553,Bosnia and Herzegovina,Europe,23648,Bree Hammond,SUPA104,Retail,153,23/04/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+554,Unknown,Unknown,23504,Lysandra Erickson,PURA500,Direct,88,24/04/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+555,New Zealand,Australia and Oceania,23682,Yuri Rice,SUPA102,Direct,191,25/04/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+556,Unknown,Unknown,24054,Quentin Houston,SUPA104,Retail,56,25/04/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+557,Qatar,Middle East and North Afr,23267,Vance Campos,SUPA105,Retail,128,26/04/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+558,Unknown,Unknown,23420,Joseph Potts,SUPA102,Online,57,26/04/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+559,Unknown,Unknown,23316,Robert Juarez,PURA200,Retail,137,27/04/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+560,Greece,Europe,23481,Gray Ortega,SUPA102,Retail,138,27/04/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+561,Unknown,Unknown,23735,Gemma Bradford,PURA500,Online,66,27/04/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+562,Pakistan,Middle East and North Afr,23767,Daryl Riddle,PURA250,Retail,83,27/04/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+563,El Salvador,Central America and the C,23821,Thaddeus Vinson,SUPA103,Retail,40,27/04/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+564,Vanuatu,Australia and Oceania,23672,Callie Cervantes,SUPA102,Online,132,28/04/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+565,Indonesia,Asia,23370,Clark Orr,PURA100,Online,63,29/04/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+566,Sao Tome and Principe,Sub-Saharan Africa,23481,Gray Ortega,SUPA102,Retail,93,29/04/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+567,Nauru,Australia and Oceania,23925,Deanna Kelley,SUPA101,Online,118,29/04/2018,SUPA101,Super Soft - Product Sample,0.3,0
+568,Oman,Middle East and North Afr,24058,Quentin Hill,PURA200,Online,199,29/04/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+569,El Salvador,Central America and the C,23652,Amela Summers,PURA200,Online,126,30/04/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+570,Seychelles ,Sub-Saharan Africa,23859,Kelly Andrews,PURA500,Online,185,30/04/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+571,Turkey,Middle East and North Afr,24074,Alma Riley,SUPA103,Retail,147,30/04/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+572,Egypt,Middle East and North Afr,23581,William Hale,PURA100,Retail,160,01/05/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+573,Macedonia,Europe,23369,Ivor Mclaughlin,PURA100,Retail,158,02/05/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+574,Switzerland,Europe,23683,Harding Blackwell,PURA500,Direct,190,03/05/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+575,Iceland,Europe,24247,Forrest Maddox,PURA250,Retail,74,03/05/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+576,Solomon Islands,Australia and Oceania,23295,Shad Delacruz,SUPA101,Retail,45,04/05/2018,SUPA101,Super Soft - Product Sample,0.3,0
+577,Comoros,Sub-Saharan Africa,23267,Vance Campos,PURA100,Retail,135,05/05/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+602,Unknown,Unknown,23520,Alea Long,PURA200,Online,133,05/05/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+603,Egypt,Middle East and North Afr,23698,Uta Rodgers,SUPA105,Retail,86,05/05/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+604,Sri Lanka,Asia,23459,Jordan Gordon,PURA200,Online,121,06/05/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+605,Nicaragua,Central America and the C,23488,Geoffrey Browning,PURA100,Retail,179,06/05/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+606,Greece,Europe,24000,Sopoline Stout,PURA500,Online,4,06/05/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+607,Vanuatu,Australia and Oceania,23516,Denton Mcintosh,PURA250,Direct,23,07/05/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+608,Unknown,Unknown,23963,Mikayla Randall,PURA500,Online,145,08/05/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+609,Panama,Central America and the C,23302,Isaac Wolf,PURA500,Retail,105,09/05/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+610,Saudi Arabia,Middle East and North Afr,23367,Roary Dixon,PURA250,Retail,10,09/05/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+611,Nepal,Asia,23370,Clark Orr,PURA100,Retail,192,10/05/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+612,Slovakia,Europe,23481,Gray Ortega,SUPA103,Retail,100,11/05/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+613,Myanmar,Asia,23617,Noelle Rasmussen,PURA500,Retail,23,12/05/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+614,Unknown,Unknown,23663,Maris Shepherd,PURA100,Retail,99,12/05/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+615,Dominican Republic,Central America and the C,23270,Wanda Garza,PURA250,Online,157,13/05/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+616,Antigua and Barbuda ,Central America and the C,23475,Cadman Wilkinson,SUPA102,Online,16,13/05/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+617,Barbados,Central America and the C,23516,Denton Mcintosh,PURA250,Retail,114,13/05/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+618,Unknown,Unknown,23532,Lysandra Hunter,SUPA105,Online,151,13/05/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+619,Zimbabwe,Sub-Saharan Africa,23635,Amela Fowler,PURA200,Direct,28,14/05/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+620,Mongolia,Asia,23319,Sylvester Roy,SUPA103,Online,73,16/05/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+621,Mozambique,Sub-Saharan Africa,23508,Vera Turner,SUPA103,Online,15,16/05/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+622,Comoros,Sub-Saharan Africa,23471,Yetta Weaver,PURA100,Online,210,17/05/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+623,Unknown,Unknown,23634,Hedley Lott,SUPA102,Retail,60,18/05/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+624,Unknown,Unknown,24172,Lester Luna,PURA100,Retail,99,18/05/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+625,Samoa ,Australia and Oceania,23448,Garrett Aguirre,SUPA103,Online,211,19/05/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+626,Myanmar,Asia,23471,Yetta Weaver,SUPA104,Online,190,19/05/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+627,Unknown,Unknown,23281,Adria Kaufman,SUPA102,Online,134,20/05/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+628,Luxembourg,Europe,23475,Cadman Wilkinson,PURA100,Direct,114,20/05/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+629,Liberia,Sub-Saharan Africa,23488,Geoffrey Browning,PURA200,Online,175,20/05/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+630,Finland,Europe,23592,Zane Hopkins,PURA250,Online,4,20/05/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+631,Jamaica,Central America and the C,23493,Mohammad Mills,PURA100,Online,90,21/05/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+632,Armenia,Europe,23498,Madeson Baker,SUPA105,Direct,178,21/05/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+633,Unknown,Unknown,23533,Serina Moody,SUPA103,Online,155,21/05/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+634,Grenada,Central America and the C,23841,Harriet Banks,PURA200,Retail,170,22/05/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+635,Cape Verde,Sub-Saharan Africa,23598,Brock Howell,SUPA105,Direct,146,24/05/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+636,Germany,Europe,23648,Bree Hammond,PURA100,Retail,136,24/05/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+637,Panama,Central America and the C,23665,Breanna Sweeney,SUPA101,Online,106,24/05/2018,SUPA101,Super Soft - Product Sample,0.3,0
+638,Azerbaijan,Middle East and North Afr,23462,Skyler Carson,PURA250,Retail,195,25/05/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+639,El Salvador,Central America and the C,23527,Brielle Gonzalez,SUPA104,Retail,124,25/05/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+640,Burkina Faso,Sub-Saharan Africa,23883,Odysseus Vaughn,SUPA102,Online,7,25/05/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+641,Uganda,Sub-Saharan Africa,23319,Sylvester Roy,PURA250,Direct,4,26/05/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+642,Togo,Sub-Saharan Africa,23481,Gray Ortega,PURA500,Direct,200,26/05/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+643,Eritrea,Sub-Saharan Africa,24033,Byron Briggs,SUPA103,Retail,35,26/05/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+644,Iraq,Middle East and North Afr,23469,Minerva Mcguire,SUPA104,Retail,193,27/05/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+645,Nauru,Australia and Oceania,23526,Jason Hoffman,PURA100,Direct,16,27/05/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+646,Myanmar,Asia,23687,Leroy Valdez,SUPA105,Retail,188,27/05/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+647,Unknown,Unknown,23848,Harlan Baxter,SUPA104,Retail,62,27/05/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+648,Qatar,Middle East and North Afr,24083,Tatyana Burns,SUPA103,Retail,125,27/05/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+649,Liechtenstein,Europe,23442,Timon Kline,PURA500,Online,95,28/05/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+650,Belarus,Europe,23468,Maxwell Hoffman,SUPA104,Online,56,28/05/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+651,Saudi Arabia,Middle East and North Afr,23668,Jermaine Mcneil,SUPA102,Retail,90,28/05/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+652,Madagascar,Sub-Saharan Africa,23270,Wanda Garza,PURA100,Online,147,29/05/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+653,Germany,Europe,23685,Jennifer Harrington,PURA500,Direct,6,29/05/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+654,Albania,Europe,23752,Celeste Church,PURA100,Online,115,29/05/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+655,Morocco,Middle East and North Afr,23384,Basil Bates,SUPA103,Retail,40,30/05/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+656,United Arab Emirates,Middle East and North Afr,23441,Britanni Weeks,SUPA102,Direct,129,31/05/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+657,Angola,Sub-Saharan Africa,23561,Cade Alvarado,SUPA104,Online,91,31/05/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+658,Burundi,Sub-Saharan Africa,23800,Peter Goodwin,SUPA101,Retail,44,31/05/2018,SUPA101,Super Soft - Product Sample,0.3,0
+659,Unknown,Unknown,23267,Vance Campos,PURA100,Online,129,01/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+660,Palau,Australia and Oceania,23322,Arsenio Knowles,SUPA102,Direct,109,01/06/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+661,Kazakhstan,Asia,23647,Walker Sweeney,SUPA103,Retail,28,01/06/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+662,Panama,Central America and the C,23774,Bert Grant,PURA100,Online,170,02/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+663,Unknown,Unknown,23341,Noel Key,PURA100,Online,77,03/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+664,Liechtenstein,Europe,23600,Daria Mcneil,SUPA102,Direct,174,03/06/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+665,Monaco,Europe,23385,Adrian Alvarez,PURA100,Online,50,04/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+666,Unknown,Unknown,23559,Jesse Austin,SUPA103,Retail,76,04/06/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+667,Slovenia,Europe,23406,Linda Morales,SUPA102,Retail,7,05/06/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+668,Bhutan,Asia,23543,Celeste Ochoa,SUPA102,Direct,142,05/06/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+669,Oman,Middle East and North Afr,23959,Buffy Powers,SUPA101,Online,148,05/06/2018,SUPA101,Super Soft - Product Sample,0.3,0
+670,Haiti,Central America and the C,23287,Joy Vazquez,PURA100,Online,94,06/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+671,Unknown,Unknown,23360,Barrett Mckinney,SUPA103,Retail,37,06/06/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+672,Turkey,Middle East and North Afr,23512,Slade Russell,PURA100,Online,154,06/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+673,Ethiopia,Sub-Saharan Africa,23546,Zorita Petty,PURA500,Retail,109,06/06/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+674,Guatemala,Central America and the C,23566,Lois Compton,PURA500,Retail,95,06/06/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+675,Bahrain,Middle East and North Afr,23648,Bree Hammond,PURA500,Online,22,06/06/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+676,Palau,Australia and Oceania,24171,Jessica Skinner,SUPA104,Retail,2,06/06/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+677,Mauritius ,Sub-Saharan Africa,23508,Vera Turner,PURA500,Direct,31,07/06/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+678,Turkey,Middle East and North Afr,23632,Sophia Palmer,PURA100,Retail,18,07/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+679,Equatorial Guinea,Sub-Saharan Africa,23331,Bevis Mcdonald,SUPA102,Direct,115,08/06/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+680,Namibia,Sub-Saharan Africa,23649,Tyler Gordon,SUPA103,Retail,125,08/06/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+681,Ukraine,Europe,23835,Quinlan Jensen,SUPA101,Online,116,08/06/2018,SUPA101,Super Soft - Product Sample,0.3,0
+682,Guatemala,Central America and the C,23557,Amir Solomon,PURA100,Direct,186,09/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+683,Unknown,Unknown,23655,Dawn Carey,PURA200,Online,146,09/06/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+684,Netherlands,Europe,23685,Jennifer Harrington,SUPA103,Online,183,09/06/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+685,Kiribati,Australia and Oceania,23751,Hamilton Willis,SUPA102,Retail,166,09/06/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+686,Unknown,Unknown,23836,Hamish Crawford,SUPA105,Direct,190,09/06/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+687,Unknown,Unknown,23985,Amity Ware,SUPA105,Online,48,09/06/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+688,Italy,Europe,23319,Sylvester Roy,PURA200,Online,68,10/06/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+689,Tajikistan,Asia,23375,Brittany Burris,SUPA105,Direct,193,10/06/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+690,Cuba,Central America and the C,23365,Gwendolyn Walton,SUPA102,Retail,165,11/06/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+691,Estonia,Europe,23596,Sopoline Pace,SUPA102,Online,33,11/06/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+692,Denmark,Europe,23600,Daria Mcneil,SUPA104,Retail,12,11/06/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+693,Unknown,Unknown,23984,Macey Prince,SUPA103,Online,32,11/06/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+694,Unknown,Unknown,23273,Isaac Cooper,SUPA104,Online,22,12/06/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+695,Grenada,Central America and the C,23614,Shay Larson,PURA250,Online,7,12/06/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+696,Unknown,Unknown,23668,Jermaine Mcneil,PURA200,Retail,37,12/06/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+697,Unknown,Unknown,23855,Madaline Briggs,PURA100,Retail,145,13/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+698,Canada,North America,23471,Yetta Weaver,SUPA102,Online,2,14/06/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+699,Unknown,Unknown,24022,Kalia Roberson,PURA100,Online,84,15/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+700,Panama,Central America and the C,23653,Kaye Rocha,PURA250,Direct,165,16/06/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+701,South Africa,Sub-Saharan Africa,23805,Callum Contreras,SUPA101,Retail,130,16/06/2018,SUPA101,Super Soft - Product Sample,0.3,0
+702,Nauru,Australia and Oceania,23419,Donovan Noel,SUPA101,Retail,193,17/06/2018,SUPA101,Super Soft - Product Sample,0.3,0
+703,Belarus,Europe,23614,Shay Larson,PURA100,Direct,87,17/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+704,Malaysia,Asia,23976,Christine Hale,SUPA101,Retail,70,17/06/2018,SUPA101,Super Soft - Product Sample,0.3,0
+705,Guinea,Sub-Saharan Africa,23300,Rhona Clarke,PURA100,Online,172,18/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+706,Unknown,Unknown,23553,Britanni Hebert,PURA200,Online,90,18/06/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+707,Honduras,Central America and the C,23546,Zorita Petty,SUPA104,Direct,119,19/06/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+708,Unknown,Unknown,23981,Yvonne Stanley,SUPA104,Retail,39,19/06/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+709,Unknown,Unknown,23491,Oscar Clay,SUPA103,Online,87,20/06/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+710,Japan,Asia,23506,Kieran Mckinney,PURA200,Direct,151,20/06/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+711,Rwanda,Sub-Saharan Africa,23661,Shaine Lambert,PURA100,Online,77,20/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+712,Norway,Europe,23667,Evelyn Cherry,PURA100,Retail,12,20/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+713,Indonesia,Asia,23839,Hedwig Harvey,SUPA101,Online,182,20/06/2018,SUPA101,Super Soft - Product Sample,0.3,0
+714,Mauritius ,Sub-Saharan Africa,23387,Ashely Macdonald,SUPA102,Retail,153,21/06/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+715,Unknown,Unknown,23410,Cooper Brooks,PURA250,Retail,202,21/06/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+716,Qatar,Middle East and North Afr,23536,Francesca Bolton,SUPA105,Online,1,21/06/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+717,China,Asia,23567,Karina Buckley,PURA250,Direct,102,21/06/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+718,San Marino,Europe,23304,Deanna Santana,PURA200,Online,127,22/06/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+720,Norway,Europe,23338,George Best,SUPA103,Retail,97,22/06/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+721,Poland,Europe,23899,Garrett Burnett,SUPA101,Direct,178,22/06/2018,SUPA101,Super Soft - Product Sample,0.3,0
+722,Madagascar,Sub-Saharan Africa,23285,Leonard Cardenas,SUPA102,Retail,9,23/06/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+723,Israel,Middle East and North Afr,23433,Tara Mckinney,PURA200,Online,209,23/06/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+724,Bulgaria,Europe,23660,Quemby Romero,SUPA104,Retail,161,23/06/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+725,Sao Tome and Principe,Sub-Saharan Africa,23675,Brielle Mcdaniel,SUPA105,Online,36,23/06/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+726,Rwanda,Sub-Saharan Africa,23670,Davis Kennedy,PURA500,Online,18,24/06/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+727,Unknown,Unknown,23701,Pamela Paul,PURA200,Online,165,24/06/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+728,Comoros,Sub-Saharan Africa,23711,Vance Middleton,SUPA101,Online,42,24/06/2018,SUPA101,Super Soft - Product Sample,0.3,0
+729,Bahrain,Middle East and North Afr,23506,Kieran Mckinney,PURA500,Retail,121,25/06/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+730,Liechtenstein,Europe,23587,Sandra Clay,PURA200,Direct,67,25/06/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+731,Kyrgyzstan,Asia,23781,Buffy Heath,PURA500,Online,198,25/06/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+732,Chad,Sub-Saharan Africa,24014,Gregory Sykes,SUPA102,Retail,38,26/06/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+733,Bangladesh,Asia,23289,Deacon Craig,PURA100,Direct,33,27/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+734,Afghanistan,Middle East and North Afr,23564,Harrison Barker,PURA500,Online,181,28/06/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+735,Kiribati,Australia and Oceania,23622,Fulton Francis,PURA250,Online,132,28/06/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+736,Unknown,Unknown,23313,Cruz Pacheco,SUPA101,Online,137,29/06/2018,SUPA101,Super Soft - Product Sample,0.3,0
+737,Madagascar,Sub-Saharan Africa,23676,Ralph Carroll,SUPA103,Direct,130,29/06/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+738,Belize,Central America and the C,23515,Patience Grant,SUPA102,Retail,191,30/06/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+739,Benin,Sub-Saharan Africa,23695,Acton Ratliff,SUPA105,Retail,199,30/06/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+740,Hungary,Europe,23940,Lara Rogers,PURA100,Direct,131,30/06/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+741,Iceland,Europe,23265,Uriel Benton,PURA100,Direct,109,01/07/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+742,Guinea-Bissau,Sub-Saharan Africa,23493,Mohammad Mills,PURA100,Retail,72,01/07/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+743,Singapore,Asia,23428,Sigourney Bullock,PURA500,Direct,164,02/07/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+744,Unknown,Unknown,23702,Yvonne Mcguire,PURA200,Online,27,02/07/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+745,Uganda,Sub-Saharan Africa,23775,Guinevere Rosales,SUPA103,Online,91,02/07/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+746,Norway,Europe,23399,Leah Golden,SUPA102,Online,193,03/07/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+747,Unknown,Unknown,23456,Urielle Michael,PURA100,Online,33,03/07/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+748,Nicaragua,Central America and the C,23462,Skyler Carson,PURA250,Direct,114,03/07/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+749,Oman,Middle East and North Afr,23481,Gray Ortega,PURA250,Online,86,03/07/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+750,Antigua and Barbuda ,Central America and the C,23822,Demetrius Watson,PURA100,Online,193,03/07/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+751,Saint Lucia,Central America and the C,23406,Linda Morales,PURA100,Online,81,04/07/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+752,Slovakia,Europe,23556,Guinevere Simpson,PURA250,Online,121,04/07/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+753,Morocco,Middle East and North Afr,23336,Petra Mckenzie,SUPA102,Retail,7,05/07/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+754,Czech Republic,Europe,23987,Thaddeus Mercado,SUPA101,Online,35,05/07/2018,SUPA101,Super Soft - Product Sample,0.3,0
+755,Lesotho,Sub-Saharan Africa,24021,Ronan Stark,SUPA105,Online,182,06/07/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+756,Belarus,Europe,23383,Rosalyn Lopez,SUPA105,Online,42,08/07/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+757,Unknown,Unknown,23728,Sheila Atkinson,PURA100,Online,171,09/07/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+758,Estonia,Europe,23856,Vivian Garrett,SUPA104,Online,92,09/07/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+759,Germany,Europe,23826,Laith Charles,PURA250,Retail,199,10/07/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+760,Liberia,Sub-Saharan Africa,23860,Palmer Craft,SUPA102,Online,161,10/07/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+761,Unknown,Unknown,23900,Tana Velasquez,PURA200,Retail,54,10/07/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+762,Unknown,Unknown,23935,Colton Briggs,SUPA103,Retail,17,10/07/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+763,Namibia,Sub-Saharan Africa,23304,Deanna Santana,SUPA102,Online,81,13/07/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+764,Niger,Sub-Saharan Africa,23894,Talon Boyer,SUPA101,Retail,104,13/07/2018,SUPA101,Super Soft - Product Sample,0.3,0
+765,Ireland,Europe,23522,Nissim Bruce,SUPA102,Online,105,14/07/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+766,Unknown,Unknown,23571,Lois Abbott,SUPA104,Online,71,14/07/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+767,Albania,Europe,23617,Noelle Rasmussen,SUPA105,Online,23,14/07/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+768,Morocco,Middle East and North Afr,23685,Jennifer Harrington,SUPA103,Retail,35,14/07/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+769,Unknown,Unknown,23434,Ryder Riddle,SUPA102,Retail,203,15/07/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+770,Maldives,Asia,23462,Skyler Carson,SUPA103,Direct,143,15/07/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+771,Belize,Central America and the C,23428,Sigourney Bullock,SUPA103,Direct,16,16/07/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+772,Tajikistan,Asia,23642,Hilda Noble,PURA250,Online,152,16/07/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+773,Unknown,Unknown,23605,Noble Diaz,SUPA101,Retail,79,17/07/2018,SUPA101,Super Soft - Product Sample,0.3,0
+774,Unknown,Unknown,23379,Desirae Perkins,PURA200,Online,65,18/07/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+775,Unknown,Unknown,23979,Cruz Morris,PURA200,Online,163,18/07/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+776,Netherlands,Europe,24036,Zephania Mills,PURA250,Online,173,18/07/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+777,Mali,Sub-Saharan Africa,23262,Candice Levy,PURA200,Online,116,19/07/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+778,Nepal,Asia,23276,Hayes Rollins,PURA500,Online,65,19/07/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+779,Singapore,Asia,23907,Zelda Dickson,SUPA101,Online,162,19/07/2018,SUPA101,Super Soft - Product Sample,0.3,0
+780,Myanmar,Asia,24056,Erasmus Morrison,SUPA103,Online,204,19/07/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+781,Niger,Sub-Saharan Africa,23299,Germaine Kidd,PURA200,Retail,104,20/07/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+782,Tunisia ,Middle East and North Afr,23462,Skyler Carson,SUPA103,Retail,33,20/07/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+783,Guinea,Sub-Saharan Africa,23265,Uriel Benton,SUPA103,Retail,134,21/07/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+784,Germany,Europe,23375,Brittany Burris,SUPA105,Online,35,21/07/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+785,Mozambique,Sub-Saharan Africa,23609,Charlotte Mcdonald,PURA500,Direct,159,21/07/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+786,Unknown,Unknown,23952,Kevin Schwartz,PURA500,Retail,81,21/07/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+787,Sweden,Europe,23369,Ivor Mclaughlin,SUPA103,Retail,92,22/07/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+788,Unknown,Unknown,23311,Forrest Macdonald,SUPA105,Retail,18,23/07/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+789,Tonga,Australia and Oceania,23557,Amir Solomon,PURA200,Direct,89,23/07/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+790,Nepal,Asia,23676,Ralph Carroll,PURA100,Retail,186,23/07/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+791,San Marino,Europe,23289,Deacon Craig,PURA100,Online,169,24/07/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+792,Malaysia,Asia,23322,Arsenio Knowles,PURA100,Online,20,24/07/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+793,Burundi,Sub-Saharan Africa,23496,Herrod Huff,SUPA103,Retail,143,24/07/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+794,Nicaragua,Central America and the C,23551,Graiden Avery,SUPA102,Retail,159,24/07/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+795,Macedonia,Europe,23274,Asher Weber,PURA100,Retail,153,25/07/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+796,Azerbaijan,Middle East and North Afr,23530,Maia Warner,SUPA105,Retail,81,25/07/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+797,Monaco,Europe,23557,Amir Solomon,SUPA105,Direct,162,25/07/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+798,Fiji,Australia and Oceania,23300,Rhona Clarke,PURA500,Online,131,26/07/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+799,Slovakia,Europe,23609,Charlotte Mcdonald,SUPA102,Direct,80,28/07/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+800,Honduras,Central America and the C,23622,Fulton Francis,PURA100,Retail,35,28/07/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+801,Unknown,Unknown,23503,Ina Faulkner,PURA100,Online,111,29/07/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+802,Luxembourg,Europe,23428,Sigourney Bullock,PURA100,Online,133,30/07/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+803,Germany,Europe,23384,Basil Bates,SUPA104,Direct,149,31/07/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+804,Czech Republic,Europe,23741,Erich Brewer,PURA100,Retail,178,31/07/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+805,Unknown,Unknown,23383,Rosalyn Lopez,SUPA103,Online,39,01/08/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+806,Iraq,Middle East and North Afr,23423,Ima Jensen,PURA250,Retail,29,01/08/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+807,Sudan,Sub-Saharan Africa,23675,Brielle Mcdaniel,SUPA102,Direct,164,01/08/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+808,Singapore,Asia,23415,Colleen Huff,PURA500,Retail,170,02/08/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+809,Vanuatu,Australia and Oceania,23500,Kimberley Daniel,PURA200,Direct,62,02/08/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+810,Mauritania,Sub-Saharan Africa,23769,Cathleen Espinoza,PURA500,Retail,153,03/08/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+811,Unknown,Unknown,23889,Laith Conley,SUPA103,Retail,148,03/08/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+812,Kuwait,Middle East and North Afr,23898,Karina Contreras,SUPA103,Online,127,03/08/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+813,Japan,Asia,23284,Clark Weaver,SUPA104,Retail,158,04/08/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+814,Tajikistan,Asia,23553,Britanni Hebert,PURA250,Online,119,05/08/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+815,Equatorial Guinea,Sub-Saharan Africa,23695,Acton Ratliff,SUPA104,Online,84,05/08/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+816,Somalia,Middle East and North Afr,23803,Mara Garcia,SUPA105,Retail,209,06/08/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+817,Sri Lanka,Asia,24038,Bertha Juarez,PURA100,Online,115,06/08/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+818,Bangladesh,Asia,23698,Uta Rodgers,SUPA105,Direct,144,08/08/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+819,Sri Lanka,Asia,23760,Idola Underwood,SUPA101,Online,69,08/08/2018,SUPA101,Super Soft - Product Sample,0.3,0
+820,Swaziland,Sub-Saharan Africa,23832,Nita Monroe,PURA250,Retail,49,08/08/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+821,Sweden,Europe,23895,Rudyard Chan,PURA100,Online,197,08/08/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+822,Angola,Sub-Saharan Africa,23267,Vance Campos,PURA200,Retail,6,09/08/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+823,Cuba,Central America and the C,23503,Ina Faulkner,PURA250,Online,64,09/08/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+824,Unknown,Unknown,23321,Kareem Mays,SUPA101,Online,211,10/08/2018,SUPA101,Super Soft - Product Sample,0.3,0
+825,Unknown,Unknown,23369,Ivor Mclaughlin,PURA500,Online,77,11/08/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+826,Vanuatu,Australia and Oceania,23655,Dawn Carey,SUPA105,Online,104,11/08/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+827,Belarus,Europe,23536,Francesca Bolton,SUPA102,Retail,86,12/08/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+828,Oman,Middle East and North Afr,23830,Haley Collins,SUPA101,Retail,37,12/08/2018,SUPA101,Super Soft - Product Sample,0.3,0
+829,Slovakia,Europe,23503,Ina Faulkner,PURA100,Retail,70,13/08/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+830,Germany,Europe,23265,Uriel Benton,SUPA105,Retail,45,14/08/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+831,Burkina Faso,Sub-Saharan Africa,23664,Sybil Barker,PURA200,Direct,32,14/08/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+832,Swaziland,Sub-Saharan Africa,23724,Stella Strickland,PURA500,Retail,33,14/08/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+833,Kiribati,Australia and Oceania,23301,Maxwell Parker,PURA500,Direct,193,16/08/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+834,Mauritania,Sub-Saharan Africa,23387,Ashely Macdonald,SUPA103,Direct,180,16/08/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+835,Uzbekistan,Asia,23452,Simon Carlson,PURA250,Online,176,16/08/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+976,Botswana,Sub-Saharan Africa,23482,Jameson Hunter,PURA250,Online,197,16/08/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+977,Moldova ,Europe,23535,Mia Ferguson,PURA100,Direct,56,16/08/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+978,United Kingdom,Europe,24011,Merritt Romero,PURA100,Retail,60,16/08/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+979,Unknown,Unknown,23414,Arden Conrad,SUPA105,Online,114,17/08/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+980,Belgium,Europe,23695,Acton Ratliff,SUPA102,Direct,160,17/08/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+981,Poland,Europe,23383,Rosalyn Lopez,PURA200,Online,5,18/08/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+982,Mozambique,Sub-Saharan Africa,23578,Sigourney Riddle,PURA500,Online,104,18/08/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+983,Tuvalu,Australia and Oceania,23383,Rosalyn Lopez,SUPA104,Online,86,19/08/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+984,Latvia,Europe,23500,Kimberley Daniel,SUPA102,Online,143,20/08/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+985,Solomon Islands,Australia and Oceania,23300,Rhona Clarke,PURA200,Direct,55,21/08/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+986,Armenia,Europe,23663,Maris Shepherd,SUPA102,Retail,187,23/08/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+987,Guatemala,Central America and the C,23827,Camden Rosa,SUPA104,Online,83,23/08/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+988,Equatorial Guinea,Sub-Saharan Africa,23375,Brittany Burris,PURA500,Direct,117,24/08/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+989,Unknown,Unknown,23562,Hollee Lowe,PURA100,Online,198,24/08/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+990,Solomon Islands,Australia and Oceania,23675,Brielle Mcdaniel,PURA250,Retail,191,24/08/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+991,Costa Rica,Central America and the C,23445,Macy Stafford,SUPA103,Direct,98,25/08/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+992,Dominican Republic,Central America and the C,23663,Maris Shepherd,PURA500,Direct,78,25/08/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+993,Unknown,Unknown,23362,Jerry Alvarado,PURA100,Online,179,26/08/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+994,Iceland,Europe,23587,Sandra Clay,SUPA103,Online,16,26/08/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+995,Unknown,Unknown,23389,Cynthia Gilliam,SUPA101,Retail,126,27/08/2018,SUPA101,Super Soft - Product Sample,0.3,0
+996,Nigeria,Sub-Saharan Africa,23458,Dominique Oneill,PURA200,Online,41,27/08/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+997,Unknown,Unknown,23606,Emily Hogan,SUPA105,Retail,17,27/08/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+998,Ireland,Europe,23674,Dara Burch,SUPA105,Online,140,27/08/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+999,Iraq,Middle East and North Afr,23807,Oliver Bullock,SUPA105,Retail,160,27/08/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1000,Unknown,Unknown,23288,Ingrid Bush,SUPA104,Retail,141,28/08/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1001,Denmark,Europe,23366,Zia Mcmillan,SUPA101,Retail,178,28/08/2018,SUPA101,Super Soft - Product Sample,0.3,0
+1002,Yemen,Middle East and North Afr,23394,Garrett May,PURA250,Online,92,28/08/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1003,Netherlands,Europe,23542,Kendall Harmon,SUPA104,Online,62,28/08/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1004,Cape Verde,Sub-Saharan Africa,23587,Sandra Clay,SUPA104,Retail,102,28/08/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1006,France,Europe,23338,George Best,SUPA102,Online,162,29/08/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1007,Greece,Europe,23346,Aretha Patton,PURA100,Retail,168,30/08/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1008,Bahrain,Middle East and North Afr,23384,Basil Bates,SUPA105,Direct,121,30/08/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1009,Luxembourg,Europe,23414,Arden Conrad,SUPA105,Online,13,30/08/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1010,Nicaragua,Central America and the C,23567,Karina Buckley,SUPA105,Retail,176,30/08/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1011,Mongolia,Asia,23302,Isaac Wolf,PURA200,Online,42,31/08/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1012,Comoros,Sub-Saharan Africa,23542,Kendall Harmon,PURA100,Retail,119,31/08/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1013,Malta,Europe,23547,Lana Norris,SUPA105,Retail,18,31/08/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1014,Nigeria,Sub-Saharan Africa,23372,Phillip Perkins,PURA500,Online,22,01/09/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1015,France,Europe,23379,Desirae Perkins,PURA200,Direct,119,01/09/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1016,Tajikistan,Asia,23435,Holmes Graves,SUPA104,Direct,145,01/09/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1017,Burkina Faso,Sub-Saharan Africa,23284,Clark Weaver,SUPA104,Online,16,02/09/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1018,Albania,Europe,23460,Fuller Hamilton,PURA500,Direct,93,02/09/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1019,Nauru,Australia and Oceania,23601,Keith Velez,SUPA105,Direct,44,02/09/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1020,Qatar,Middle East and North Afr,23833,Hilary Schultz,SUPA103,Direct,74,02/09/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1021,Andorra,Europe,23427,Ivy Wells,SUPA105,Retail,53,03/09/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1022,Unknown,Unknown,24020,Sean Townsend,PURA500,Retail,138,03/09/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1023,Tuvalu,Australia and Oceania,23394,Garrett May,PURA250,Retail,159,04/09/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1024,Benin,Sub-Saharan Africa,23551,Graiden Avery,SUPA105,Direct,149,04/09/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1025,Guatemala,Central America and the C,23675,Brielle Mcdaniel,SUPA103,Retail,147,04/09/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1026,Unknown,Unknown,23779,Rafael Fletcher,SUPA103,Direct,124,04/09/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1027,Macedonia,Europe,23331,Bevis Mcdonald,SUPA105,Direct,184,05/09/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1028,Belize,Central America and the C,23342,Paul Duke,SUPA104,Direct,86,05/09/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1029,Romania,Europe,23579,Marcia Everett,PURA500,Direct,160,05/09/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1030,Vanuatu,Australia and Oceania,23477,Lani Floyd,PURA250,Online,51,06/09/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1031,Unknown,Unknown,23851,Eve Bentley,PURA250,Direct,171,06/09/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1032,Hungary,Europe,23443,Raphael Casey,PURA100,Online,58,07/09/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1033,Nepal,Asia,23692,Yuri Huber,SUPA105,Online,177,07/09/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1034,Unknown,Unknown,23942,Fitzgerald Gray,SUPA105,Online,117,08/09/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1035,Australia,Australia and Oceania,23326,Katelyn Joseph,SUPA105,Retail,118,09/09/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1036,Panama,Central America and the C,23666,Blair Horne,PURA500,Direct,69,10/09/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1037,Luxembourg,Europe,23265,Uriel Benton,PURA200,Online,38,11/09/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1038,Saudi Arabia,Middle East and North Afr,23699,Graham Paul,PURA200,Online,64,11/09/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1039,Myanmar,Asia,23342,Paul Duke,SUPA104,Direct,60,12/09/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1040,Yemen,Middle East and North Afr,23363,Lesley Aguilar,PURA500,Retail,145,12/09/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1041,Bosnia and Herzegovina,Europe,23472,Zia Ayala,SUPA104,Retail,209,12/09/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1042,Burkina Faso,Sub-Saharan Africa,23265,Uriel Benton,SUPA102,Direct,138,13/09/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1043,Unknown,Unknown,23673,Ifeoma Crane,PURA100,Retail,95,13/09/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1044,Myanmar,Asia,23922,Brynn Avila,SUPA103,Online,159,13/09/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1045,New Zealand,Australia and Oceania,23530,Maia Warner,PURA200,Direct,85,14/09/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1046,Somalia,Middle East and North Afr,23547,Lana Norris,SUPA102,Online,108,15/09/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1048,United Kingdom,Europe,23662,Deirdre Ford,SUPA102,Direct,184,16/09/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1049,Oman,Middle East and North Afr,23348,Tad Mack,PURA500,Online,8,17/09/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1050,Cape Verde,Sub-Saharan Africa,23381,Gwendolyn David,SUPA103,Online,159,17/09/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1051,Unknown,Unknown,23408,Fatima Case,PURA200,Retail,48,17/09/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1052,Burkina Faso,Sub-Saharan Africa,23503,Ina Faulkner,SUPA103,Direct,13,17/09/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1053,Malawi,Sub-Saharan Africa,23289,Deacon Craig,PURA250,Online,95,18/09/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1054,Sweden,Europe,23302,Isaac Wolf,SUPA103,Retail,103,18/09/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1055,Canada,North America,23353,Zahir Fields,SUPA105,Retail,168,18/09/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1056,Unknown,Unknown,23596,Sopoline Pace,PURA200,Online,111,18/09/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1057,Guinea,Sub-Saharan Africa,23337,Bell Prince,SUPA103,Online,82,19/09/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1058,Tonga,Australia and Oceania,23380,Ivory Chang,PURA500,Online,95,19/09/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1059,Portugal,Europe,23384,Basil Bates,PURA200,Retail,9,19/09/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1060,Azerbaijan,Middle East and North Afr,23427,Ivy Wells,PURA250,Online,129,19/09/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1061,Unknown,Unknown,23308,Dara Cunningham,PURA100,Retail,112,20/09/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1062,Grenada,Central America and the C,23579,Marcia Everett,SUPA104,Retail,122,21/09/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1063,Macedonia,Europe,23643,Naida Wilkerson,PURA100,Online,11,21/09/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1064,Moldova ,Europe,23817,Michael Guthrie,SUPA102,Retail,58,21/09/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1065,Kuwait,Middle East and North Afr,23456,Urielle Michael,SUPA105,Retail,144,22/09/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1066,Grenada,Central America and the C,23643,Naida Wilkerson,PURA200,Direct,183,22/09/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1067,Liberia,Sub-Saharan Africa,23699,Graham Paul,SUPA102,Direct,43,22/09/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1068,Unknown,Unknown,23845,Cameron Schmidt,SUPA102,Retail,142,23/09/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1070,Indonesia,Asia,23460,Fuller Hamilton,PURA200,Online,160,24/09/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1071,Unknown,Unknown,23517,Florence Hutchinson,PURA100,Online,144,24/09/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1072,Mongolia,Asia,23695,Acton Ratliff,SUPA104,Retail,197,25/09/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1073,Vanuatu,Australia and Oceania,23363,Lesley Aguilar,PURA200,Retail,120,26/09/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1074,Benin,Sub-Saharan Africa,23404,Cedric Rivera,PURA500,Online,16,26/09/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1075,Saint Lucia,Central America and the C,23499,Eve Perry,PURA100,Online,120,26/09/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1076,Solomon Islands,Australia and Oceania,23674,Dara Burch,PURA500,Direct,15,26/09/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1078,Unknown,Unknown,23287,Joy Vazquez,PURA250,Online,189,27/09/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1079,Uzbekistan,Asia,23385,Adrian Alvarez,SUPA105,Direct,86,27/09/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1080,New Zealand,Australia and Oceania,23429,Lacota Hinton,PURA200,Direct,106,27/09/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1081,Lesotho,Sub-Saharan Africa,23456,Urielle Michael,PURA500,Retail,153,27/09/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1082,Senegal,Sub-Saharan Africa,23588,Lois Weber,PURA250,Direct,59,27/09/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1083,Iraq,Middle East and North Afr,23606,Emily Hogan,SUPA102,Online,112,27/09/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1084,Unknown,Unknown,23718,Shana Rich,SUPA102,Direct,187,28/09/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1085,Unknown,Unknown,23650,Ursa Strickland,SUPA101,Online,162,29/09/2018,SUPA101,Super Soft - Product Sample,0.3,0
+1086,Saint Lucia,Central America and the C,23406,Linda Morales,PURA500,Online,202,30/09/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1087,Costa Rica,Central America and the C,23301,Maxwell Parker,PURA200,Online,36,01/10/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1088,Seychelles ,Sub-Saharan Africa,23404,Cedric Rivera,SUPA102,Retail,10,01/10/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1089,Malaysia,Asia,23535,Mia Ferguson,SUPA105,Direct,34,02/10/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1090,Madagascar,Sub-Saharan Africa,23566,Lois Compton,PURA200,Online,46,02/10/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1091,Mozambique,Sub-Saharan Africa,23610,Thane Hood,SUPA103,Retail,60,03/10/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1092,Switzerland,Europe,23435,Holmes Graves,SUPA104,Direct,68,05/10/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1093,Nicaragua,Central America and the C,23587,Sandra Clay,SUPA104,Direct,17,05/10/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1094,Luxembourg,Europe,23610,Thane Hood,SUPA104,Direct,180,05/10/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1095,Unknown,Unknown,23726,Amity Hudson,PURA250,Online,141,05/10/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1096,United Kingdom,Europe,23330,Aurelia Flores,SUPA101,Retail,177,06/10/2018,SUPA101,Super Soft - Product Sample,0.3,0
+1097,Pakistan,Middle East and North Afr,23411,Reagan Leach,PURA200,Retail,138,06/10/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1098,Rwanda,Sub-Saharan Africa,23672,Callie Cervantes,PURA200,Direct,189,06/10/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1099,Turkey,Middle East and North Afr,23397,Moses Huff,SUPA101,Retail,208,07/10/2018,SUPA101,Super Soft - Product Sample,0.3,0
+1100,Gabon,Sub-Saharan Africa,23323,Colby Knapp,SUPA105,Retail,62,08/10/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1101,Unknown,Unknown,23597,Aurora Dyer,PURA250,Retail,175,08/10/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1102,Canada,North America,23599,Kelsie Joseph,PURA500,Retail,41,09/10/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1103,Kiribati,Australia and Oceania,23622,Fulton Francis,SUPA102,Retail,37,09/10/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1104,Monaco,Europe,23634,Hedley Lott,PURA100,Retail,42,09/10/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1105,Mozambique,Sub-Saharan Africa,23643,Naida Wilkerson,SUPA102,Direct,174,09/10/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1106,Luxembourg,Europe,23672,Callie Cervantes,SUPA102,Retail,200,12/10/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1107,Unknown,Unknown,23729,Beatrice Malone,SUPA105,Online,16,12/10/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1108,Senegal,Sub-Saharan Africa,23280,James Spencer,PURA200,Direct,66,13/10/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1109,Jamaica,Central America and the C,23332,Yael Carter,PURA500,Retail,60,14/10/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1110,Namibia,Sub-Saharan Africa,23578,Sigourney Riddle,PURA500,Online,112,14/10/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1111,Unknown,Unknown,23654,Brian Clarke,PURA100,Direct,128,15/10/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1112,Unknown,Unknown,23757,Minerva Reynolds,PURA100,Online,185,15/10/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1113,Sri Lanka,Asia,23345,Devin Abbott,PURA100,Direct,182,17/10/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1114,Togo,Sub-Saharan Africa,23458,Dominique Oneill,SUPA104,Retail,191,17/10/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1115,Uzbekistan,Asia,23809,Lucius Barton,SUPA103,Retail,180,17/10/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1116,Panama,Central America and the C,23314,Maxine Gentry,SUPA104,Retail,95,18/10/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1117,Kazakhstan,Asia,23503,Ina Faulkner,SUPA102,Direct,99,19/10/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1118,Bhutan,Asia,23616,Grant Gilbert,PURA100,Online,54,19/10/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1119,Sweden,Europe,23363,Lesley Aguilar,PURA100,Retail,19,20/10/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1120,Bahrain,Middle East and North Afr,23399,Leah Golden,PURA100,Online,138,20/10/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1121,Central African Republic,Sub-Saharan Africa,23616,Grant Gilbert,PURA500,Direct,119,20/10/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1122,Unknown,Unknown,23762,Hayes Carter,SUPA103,Online,105,20/10/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1123,Tajikistan,Asia,23520,Alea Long,PURA250,Direct,190,22/10/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1124,Turkey,Middle East and North Afr,23516,Denton Mcintosh,SUPA105,Online,4,23/10/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1125,Albania,Europe,23582,Griffin Grimes,PURA100,Retail,167,23/10/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1126,Kazakhstan,Asia,23765,Lunea Fuentes,PURA100,Online,29,23/10/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1127,Mongolia,Asia,23289,Deacon Craig,SUPA105,Direct,166,24/10/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1128,Uganda,Sub-Saharan Africa,23414,Arden Conrad,PURA500,Online,87,24/10/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1129,Unknown,Unknown,23714,Shea Valenzuela,SUPA104,Online,184,24/10/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1130,San Marino,Europe,23277,MacKenzie Moss,PURA200,Direct,82,25/10/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1131,Slovakia,Europe,23535,Mia Ferguson,SUPA104,Online,96,25/10/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1132,Spain,Europe,23460,Fuller Hamilton,PURA250,Direct,182,26/10/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1133,Nicaragua,Central America and the C,23547,Lana Norris,PURA250,Direct,163,26/10/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1135,Belize,Central America and the C,23756,Kaseem Adkins,SUPA105,Online,92,26/10/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1136,Mozambique,Sub-Saharan Africa,23419,Donovan Noel,SUPA102,Retail,102,27/10/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1137,Switzerland,Europe,23424,Norman Dale,SUPA104,Direct,46,27/10/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1138,Tuvalu,Australia and Oceania,23499,Eve Perry,SUPA103,Direct,182,27/10/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1139,Canada,North America,23624,Briar Kennedy,SUPA103,Retail,1,27/10/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1140,Philippines,Asia,23656,Audrey Chase,PURA100,Online,174,27/10/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1141,Slovenia,Europe,23498,Madeson Baker,PURA250,Online,61,28/10/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1142,Belgium,Europe,23582,Griffin Grimes,SUPA104,Retail,116,28/10/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1143,Azerbaijan,Middle East and North Afr,23643,Naida Wilkerson,SUPA105,Direct,20,28/10/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1144,Qatar,Middle East and North Afr,23458,Dominique Oneill,SUPA101,Online,69,29/10/2018,SUPA101,Super Soft - Product Sample,0.3,0
+1145,Unknown,Unknown,23492,Alisa Kemp,PURA100,Online,6,31/10/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1146,Unknown,Unknown,23469,Minerva Mcguire,PURA250,Retail,5,01/11/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1147,Indonesia,Asia,23535,Mia Ferguson,PURA100,Retail,19,01/11/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1148,Bosnia and Herzegovina,Europe,23732,Kyra Osborn,PURA200,Online,196,01/11/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1149,Unknown,Unknown,23363,Lesley Aguilar,SUPA101,Direct,190,02/11/2018,SUPA101,Super Soft - Product Sample,0.3,0
+1150,Tonga,Australia and Oceania,23323,Colby Knapp,SUPA102,Online,162,03/11/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1151,Greenland,North America,23360,Barrett Mckinney,SUPA103,Direct,128,03/11/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1152,Maldives,Asia,23666,Blair Horne,SUPA105,Online,165,03/11/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1153,United Kingdom,Europe,23808,Nita Andrews,SUPA105,Retail,179,03/11/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1154,Unknown,Unknown,23271,Athena Fitzpatrick,SUPA103,Retail,125,04/11/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1155,Burundi,Sub-Saharan Africa,23460,Fuller Hamilton,PURA200,Retail,143,05/11/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1156,Finland,Europe,23470,Herrod Byers,SUPA105,Direct,153,05/11/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1157,Germany,Europe,23489,Nichole Vinson,SUPA104,Online,62,05/11/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1158,Ireland,Europe,23495,Chava Hunt,SUPA102,Direct,99,05/11/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1159,Unknown,Unknown,23768,Hadassah Christian,SUPA102,Retail,168,05/11/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1160,Unknown,Unknown,23814,Teagan Baird,SUPA105,Retail,150,05/11/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1161,Croatia,Europe,23296,India Gilbert,SUPA103,Online,189,06/11/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1162,Uzbekistan,Asia,23284,Clark Weaver,SUPA105,Direct,192,07/11/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1163,Oman,Middle East and North Afr,23404,Cedric Rivera,PURA250,Online,50,07/11/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1164,El Salvador,Central America and the C,23499,Eve Perry,PURA250,Online,125,07/11/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1165,Unknown,Unknown,23328,Keaton Wolfe,SUPA105,Online,102,08/11/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1166,Seychelles ,Sub-Saharan Africa,23503,Ina Faulkner,PURA250,Retail,137,08/11/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1167,Bosnia and Herzegovina,Europe,23616,Grant Gilbert,SUPA102,Online,182,08/11/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1168,Bahrain,Middle East and North Afr,23530,Maia Warner,PURA250,Retail,78,10/11/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1169,Slovakia,Europe,23579,Marcia Everett,SUPA105,Retail,40,10/11/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1170,Switzerland,Europe,23509,Briar Clayton,SUPA104,Direct,76,11/11/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1173,Mauritania,Sub-Saharan Africa,23579,Marcia Everett,PURA200,Online,50,12/11/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1174,Uganda,Sub-Saharan Africa,23435,Holmes Graves,PURA200,Direct,85,13/11/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1175,Afghanistan,Middle East and North Afr,23566,Lois Compton,SUPA104,Retail,78,13/11/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1176,Benin,Sub-Saharan Africa,23662,Deirdre Ford,SUPA104,Online,163,13/11/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1177,Mauritania,Sub-Saharan Africa,23739,Portia Stewart,SUPA103,Retail,150,13/11/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1178,Pakistan,Middle East and North Afr,23329,Melinda Cobb,SUPA105,Online,6,14/11/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1179,Monaco,Europe,23363,Lesley Aguilar,PURA500,Direct,104,14/11/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1180,Albania,Europe,23419,Donovan Noel,PURA500,Direct,104,14/11/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1181,Luxembourg,Europe,23689,Phillip Schneider,PURA100,Retail,159,14/11/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1182,Ireland,Europe,23816,Wanda Guy,SUPA104,Retail,85,14/11/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1183,Gabon,Sub-Saharan Africa,23266,Celeste Pugh,PURA200,Retail,170,15/11/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1184,Afghanistan,Middle East and North Afr,23470,Herrod Byers,SUPA102,Online,57,15/11/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1185,United Arab Emirates,Middle East and North Afr,23674,Dara Burch,PURA250,Direct,7,16/11/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1186,Unknown,Unknown,23725,Callie Stanley,PURA250,Retail,36,16/11/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1187,Palau,Australia and Oceania,23375,Brittany Burris,SUPA103,Retail,5,17/11/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1188,Cambodia,Asia,23470,Herrod Byers,SUPA104,Direct,41,17/11/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1189,Denmark,Europe,23619,Flynn Robinson,SUPA104,Online,61,17/11/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1190,Kuwait,Middle East and North Afr,23716,Xanthus Holden,SUPA102,Online,49,17/11/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1191,Somalia,Middle East and North Afr,23485,Ebony Kirk,SUPA105,Online,38,18/11/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1192,Spain,Europe,23566,Lois Compton,PURA200,Retail,144,18/11/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1193,Vanuatu,Australia and Oceania,23424,Norman Dale,PURA200,Direct,159,19/11/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1194,Morocco,Middle East and North Afr,23363,Lesley Aguilar,PURA200,Retail,162,20/11/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1195,Romania,Europe,23400,Ina Montgomery,SUPA101,Direct,108,20/11/2018,SUPA101,Super Soft - Product Sample,0.3,0
+1196,Unknown,Unknown,23425,Dana Cobb,SUPA102,Online,3,20/11/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1197,Pakistan,Middle East and North Afr,23520,Alea Long,PURA100,Online,116,21/11/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1198,Denmark,Europe,23535,Mia Ferguson,SUPA102,Retail,63,22/11/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1199,Zimbabwe,Sub-Saharan Africa,23566,Lois Compton,PURA200,Online,196,23/11/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1200,Mauritius ,Sub-Saharan Africa,23570,Kiara Lucas,PURA100,Online,68,23/11/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1201,Solomon Islands,Australia and Oceania,23637,Penelope Baker,SUPA101,Retail,63,23/11/2018,SUPA101,Super Soft - Product Sample,0.3,0
+1202,Mauritius ,Sub-Saharan Africa,23704,Shelly Johnston,SUPA101,Online,22,23/11/2018,SUPA101,Super Soft - Product Sample,0.3,0
+1203,Zimbabwe,Sub-Saharan Africa,23470,Herrod Byers,SUPA105,Online,154,24/11/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1204,Unknown,Unknown,23687,Leroy Valdez,SUPA103,Retail,197,24/11/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1205,South Africa,Sub-Saharan Africa,23296,India Gilbert,SUPA104,Retail,117,25/11/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1206,Bangladesh,Asia,23425,Dana Cobb,PURA250,Retail,200,25/11/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1207,Nauru,Australia and Oceania,23498,Madeson Baker,SUPA103,Direct,39,25/11/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1208,El Salvador,Central America and the C,23358,Joel Rivers,PURA250,Retail,181,26/11/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1209,Denmark,Europe,23611,Curran Kane,PURA500,Retail,197,26/11/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1210,Bahrain,Middle East and North Afr,23323,Colby Knapp,SUPA104,Online,87,27/11/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1211,Malaysia,Asia,23393,Odette Logan,SUPA105,Retail,113,28/11/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1212,Hungary,Europe,23645,Lucius James,SUPA105,Direct,158,28/11/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1213,Malaysia,Asia,23727,McKenzie Kirkland,PURA100,Online,111,29/11/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1214,Malawi,Sub-Saharan Africa,23394,Garrett May,SUPA105,Retail,105,01/12/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1215,Nicaragua,Central America and the C,23425,Dana Cobb,PURA200,Online,200,02/12/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1216,Albania,Europe,23451,Caesar Mcgowan,SUPA102,Retail,123,02/12/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1217,Indonesia,Asia,23750,Lucy Dawson,SUPA103,Retail,75,02/12/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1218,Denmark,Europe,23296,India Gilbert,SUPA105,Direct,37,03/12/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1219,France,Europe,23547,Lana Norris,SUPA102,Direct,83,03/12/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1220,Senegal,Sub-Saharan Africa,23771,Melinda Klein,SUPA102,Online,57,03/12/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1221,Saudi Arabia,Middle East and North Afr,23444,Aline Leonard,PURA200,Online,160,04/12/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1222,Iceland,Europe,23348,Tad Mack,SUPA104,Online,163,05/12/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1223,Bhutan,Asia,23411,Reagan Leach,PURA100,Retail,62,05/12/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1321,Denmark,Europe,23464,Zorita Hodge,SUPA103,Direct,81,06/12/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1322,United Arab Emirates,Middle East and North Afr,23574,Griffin Gray,PURA200,Retail,33,06/12/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1323,Slovenia,Europe,23606,Emily Hogan,PURA500,Retail,96,06/12/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1324,Czech Republic,Europe,23368,Emerson Beard,SUPA104,Retail,160,07/12/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1325,Unknown,Unknown,23567,Karina Buckley,SUPA103,Online,150,07/12/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1326,Nigeria,Sub-Saharan Africa,23616,Grant Gilbert,SUPA104,Direct,36,07/12/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1327,Unknown,Unknown,23342,Paul Duke,PURA200,Online,122,08/12/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1328,Kyrgyzstan,Asia,23411,Reagan Leach,SUPA102,Retail,114,08/12/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1329,Sri Lanka,Asia,23531,Danielle Hardy,SUPA102,Retail,54,08/12/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1330,Gabon,Sub-Saharan Africa,23611,Curran Kane,PURA500,Direct,135,08/12/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1331,Israel,Middle East and North Afr,23531,Danielle Hardy,PURA100,Direct,19,09/12/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1332,Netherlands,Europe,23429,Lacota Hinton,SUPA102,Retail,187,10/12/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1333,Jamaica,Central America and the C,23499,Eve Perry,PURA250,Direct,36,10/12/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1334,Moldova ,Europe,23616,Grant Gilbert,PURA500,Retail,185,12/12/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1335,Oman,Middle East and North Afr,23689,Phillip Schneider,SUPA102,Online,181,13/12/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1336,Luxembourg,Europe,23378,Brynne Mcgowan,PURA250,Online,168,14/12/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1337,Namibia,Sub-Saharan Africa,23411,Reagan Leach,PURA250,Retail,13,15/12/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1338,Unknown,Unknown,23298,Ryder Conner,PURA250,Online,12,16/12/2018,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1339,Myanmar,Asia,23547,Lana Norris,PURA100,Retail,28,16/12/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1340,New Zealand,Australia and Oceania,23579,Marcia Everett,PURA200,Direct,12,16/12/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1341,Philippines,Asia,23515,Patience Grant,SUPA102,Retail,129,19/12/2018,SUPA102,Super Soft - 250ml,2.5,4.5
+1342,Somalia,Middle East and North Afr,23541,Mason Garner,PURA200,Retail,127,20/12/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1343,Spain,Europe,23424,Norman Dale,PURA100,Direct,38,21/12/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1344,Ireland,Europe,23311,Forrest Macdonald,SUPA105,Direct,181,23/12/2018,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1345,Saint Lucia,Central America and the C,23501,Louis Hubbard,PURA100,Direct,204,23/12/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1346,Liberia,Sub-Saharan Africa,23564,Harrison Barker,PURA100,Retail,136,23/12/2018,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1347,Uganda,Sub-Saharan Africa,23358,Joel Rivers,SUPA103,Retail,129,25/12/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1348,Belarus,Europe,23358,Joel Rivers,SUPA103,Retail,19,26/12/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1349,Unknown,Unknown,23438,Kevin Spears,SUPA104,Online,102,26/12/2018,SUPA104,Super Soft - 1 Litre,5,9.99
+1350,Guinea,Sub-Saharan Africa,23432,Edward Pope,PURA200,Online,8,29/12/2018,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1351,Mozambique,Sub-Saharan Africa,23489,Nichole Vinson,PURA500,Direct,194,29/12/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1352,Albania,Europe,23743,August Chaney,SUPA103,Online,174,30/12/2018,SUPA103,Super Soft - 500ml,3.5,6.99
+1353,Unknown,Unknown,23398,Susan Schultz,PURA500,Direct,45,31/12/2018,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1354,Tonga,Australia and Oceania,23368,Emerson Beard,SUPA104,Retail,183,02/01/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1355,Bhutan,Asia,23422,Leo Osborne,PURA100,Direct,125,02/01/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1356,Italy,Europe,23515,Patience Grant,SUPA105,Online,1,02/01/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1357,Hungary,Europe,23611,Curran Kane,PURA500,Retail,102,03/01/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1358,Mauritania,Sub-Saharan Africa,23361,Benedict Byrd,SUPA103,Retail,184,04/01/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1359,Trinidad and Tobago,Central America and the C,23371,Doris Williams,SUPA103,Retail,204,04/01/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1360,Czech Republic,Europe,23422,Leo Osborne,PURA250,Retail,125,04/01/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1361,Unknown,Unknown,23476,Brielle Love,SUPA103,Online,29,04/01/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1362,Senegal,Sub-Saharan Africa,23504,Lysandra Erickson,PURA500,Online,89,04/01/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1363,Sweden,Europe,23548,Breanna Pacheco,PURA500,Retail,6,04/01/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1364,Unknown,Unknown,23431,Cynthia Underwood,PURA250,Retail,7,05/01/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1365,Benin,Sub-Saharan Africa,23539,Gemma Rodriguez,PURA500,Direct,156,05/01/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1366,Kyrgyzstan,Asia,23498,Madeson Baker,SUPA105,Retail,16,06/01/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1367,Sudan,Sub-Saharan Africa,23513,Baker Johnson,SUPA104,Retail,163,06/01/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1368,Canada,North America,23556,Guinevere Simpson,SUPA105,Retail,175,06/01/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1369,Saudi Arabia,Middle East and North Afr,23610,Thane Hood,SUPA103,Retail,144,06/01/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1370,Namibia,Sub-Saharan Africa,23644,Sandra Whitfield,PURA250,Online,88,06/01/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1371,Fiji,Australia and Oceania,23846,Indira Collier,PURA100,Online,19,06/01/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1372,Palau,Australia and Oceania,23633,Azalia Ramos,SUPA103,Online,58,07/01/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1373,Mozambique,Sub-Saharan Africa,23323,Colby Knapp,SUPA102,Retail,168,08/01/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1374,Tunisia ,Middle East and North Afr,23630,Hunter Kirkland,PURA200,Direct,55,08/01/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1376,Pakistan,Middle East and North Afr,23396,Katelyn Adams,SUPA104,Online,20,09/01/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1377,Israel,Middle East and North Afr,23401,Maia Mitchell,PURA500,Online,65,09/01/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1378,Nigeria,Sub-Saharan Africa,23672,Callie Cervantes,SUPA105,Online,87,09/01/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1379,Cape Verde,Sub-Saharan Africa,23797,Lael Serrano,PURA500,Online,126,09/01/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1380,Belgium,Europe,23329,Melinda Cobb,SUPA105,Retail,97,10/01/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1381,Costa Rica,Central America and the C,23482,Jameson Hunter,PURA100,Direct,18,10/01/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1382,Cape Verde,Sub-Saharan Africa,23506,Kieran Mckinney,SUPA102,Retail,83,12/01/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1383,Unknown,Unknown,23820,Nicholas Singleton,PURA250,Online,194,12/01/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1384,Guatemala,Central America and the C,23531,Danielle Hardy,SUPA102,Online,1,13/01/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1385,Pakistan,Middle East and North Afr,23532,Lysandra Hunter,SUPA102,Retail,57,13/01/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1386,Somalia,Middle East and North Afr,23665,Breanna Sweeney,SUPA104,Direct,98,13/01/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1387,Guinea,Sub-Saharan Africa,23381,Gwendolyn David,SUPA104,Retail,42,14/01/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1388,Zimbabwe,Sub-Saharan Africa,23417,Heidi Pennington,PURA500,Online,100,14/01/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1389,Sri Lanka,Asia,23592,Zane Hopkins,SUPA102,Direct,43,14/01/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1390,Unknown,Unknown,23288,Ingrid Bush,PURA250,Direct,159,15/01/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1391,Niger,Sub-Saharan Africa,23600,Daria Mcneil,SUPA105,Direct,28,16/01/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1392,Yemen,Middle East and North Afr,23390,Tanner Turner,PURA100,Online,176,17/01/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1393,United Kingdom,Europe,23314,Maxine Gentry,SUPA103,Direct,151,18/01/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1394,Guinea,Sub-Saharan Africa,23396,Katelyn Adams,PURA250,Online,116,18/01/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1396,Eritrea,Sub-Saharan Africa,23611,Curran Kane,PURA200,Online,102,19/01/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1397,Greenland,North America,23669,Melissa Roberts,PURA200,Online,28,19/01/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1398,Bosnia and Herzegovina,Europe,23479,Quinn Frederick,PURA200,Direct,119,20/01/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1399,Mali,Sub-Saharan Africa,23417,Heidi Pennington,PURA250,Direct,146,21/01/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1400,Swaziland,Sub-Saharan Africa,23378,Brynne Mcgowan,PURA200,Direct,53,22/01/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1401,Hungary,Europe,23422,Leo Osborne,PURA500,Retail,153,22/01/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1402,Canada,North America,23532,Lysandra Hunter,SUPA104,Retail,130,22/01/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1403,China,Asia,23609,Charlotte Mcdonald,PURA250,Direct,131,22/01/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1404,Burkina Faso,Sub-Saharan Africa,23315,Anika Tillman,PURA250,Online,109,24/01/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1405,Mauritius ,Sub-Saharan Africa,23550,Alea Sawyer,SUPA103,Online,128,24/01/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1406,Antigua and Barbuda ,Central America and the C,23558,Rogan Garner,PURA500,Retail,17,24/01/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1407,Austria,Europe,23362,Jerry Alvarado,PURA500,Online,134,25/01/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1408,Tonga,Australia and Oceania,23627,Armando Pruitt,PURA100,Online,141,25/01/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1409,Hungary,Europe,23557,Amir Solomon,SUPA104,Online,45,26/01/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1410,Vanuatu,Australia and Oceania,23452,Simon Carlson,PURA500,Retail,186,27/01/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1411,Unknown,Unknown,23563,Morgan Talley,PURA100,Online,202,27/01/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1412,Cambodia,Asia,23504,Lysandra Erickson,SUPA105,Online,192,28/01/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1413,Nepal,Asia,23509,Briar Clayton,SUPA105,Online,195,28/01/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1414,Mauritius ,Sub-Saharan Africa,23558,Rogan Garner,PURA250,Direct,22,28/01/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1415,Tonga,Australia and Oceania,23568,Harding Larson,SUPA104,Online,146,28/01/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1416,Netherlands,Europe,23311,Forrest Macdonald,SUPA102,Direct,51,29/01/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1417,Kazakhstan,Asia,23374,Ebony Mercer,PURA500,Online,200,29/01/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1418,Ukraine,Europe,23298,Ryder Conner,PURA250,Retail,52,30/01/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1419,Qatar,Middle East and North Afr,23419,Donovan Noel,SUPA105,Retail,15,31/01/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1420,Yemen,Middle East and North Afr,23495,Chava Hunt,SUPA101,Online,192,02/02/2019,SUPA101,Super Soft - Product Sample,0.3,0
+1005,Malta,Europe,23587,Sandra Clay,SUPA104,Retail,101,03/02/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1421,Zimbabwe,Sub-Saharan Africa,23298,Ryder Conner,PURA200,Online,187,03/02/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1422,Malta,Europe,23529,Autumn Hobbs,SUPA104,Direct,160,03/02/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1423,Croatia,Europe,23431,Cynthia Underwood,PURA250,Direct,61,04/02/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1424,Tonga,Australia and Oceania,23559,Jesse Austin,PURA250,Direct,176,04/02/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1425,Egypt,Middle East and North Afr,23460,Fuller Hamilton,SUPA102,Direct,112,05/02/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1426,Unknown,Unknown,23303,Guinevere Key,SUPA105,Online,176,06/02/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1427,South Africa,Sub-Saharan Africa,23396,Katelyn Adams,SUPA102,Direct,127,07/02/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1428,Australia,Australia and Oceania,23507,Martena Hunt,SUPA102,Direct,194,07/02/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1429,Madagascar,Sub-Saharan Africa,23377,Eleanor Hopper,PURA500,Retail,43,08/02/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1430,Finland,Europe,23378,Brynne Mcgowan,SUPA105,Retail,157,08/02/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1431,Armenia,Europe,23443,Raphael Casey,PURA200,Direct,74,10/02/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1432,Kazakhstan,Asia,23504,Lysandra Erickson,PURA500,Online,175,10/02/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1433,Bhutan,Asia,23361,Benedict Byrd,SUPA105,Direct,115,11/02/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1434,Japan,Asia,23443,Raphael Casey,SUPA102,Online,46,11/02/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1435,Denmark,Europe,23486,Rajah Castillo,SUPA105,Direct,206,11/02/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1436,Armenia,Europe,23464,Zorita Hodge,SUPA104,Retail,58,12/02/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1438,Guinea,Sub-Saharan Africa,23689,Phillip Schneider,SUPA104,Direct,147,13/02/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1439,Sierra Leone,Sub-Saharan Africa,23309,Buckminster Hopkins,PURA200,Retail,201,15/02/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1440,Sao Tome and Principe,Sub-Saharan Africa,23408,Fatima Case,PURA200,Online,77,15/02/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1441,Uzbekistan,Asia,23501,Louis Hubbard,SUPA103,Retail,46,15/02/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1442,Unknown,Unknown,23530,Maia Warner,PURA500,Retail,160,16/02/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1443,Algeria,Middle East and North Afr,23597,Aurora Dyer,PURA100,Direct,52,16/02/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1444,Uganda,Sub-Saharan Africa,23276,Hayes Rollins,SUPA104,Retail,72,17/02/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1445,Armenia,Europe,23403,Molly Crane,SUPA103,Retail,46,18/02/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1446,Unknown,Unknown,23573,Nora Carroll,SUPA102,Retail,67,18/02/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1447,Unknown,Unknown,23462,Skyler Carson,SUPA105,Online,60,21/02/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1448,Singapore,Asia,23517,Florence Hutchinson,SUPA104,Online,116,21/02/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1449,Qatar,Middle East and North Afr,23556,Guinevere Simpson,PURA500,Online,105,22/02/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1450,Fiji,Australia and Oceania,23292,Liberty Mcbride,SUPA105,Online,73,23/02/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1451,Unknown,Unknown,23480,Ralph Ayala,PURA100,Online,111,23/02/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1452,Malta,Europe,23464,Zorita Hodge,SUPA104,Retail,109,25/02/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1453,Maldives,Asia,23276,Hayes Rollins,SUPA102,Direct,128,26/02/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1454,Luxembourg,Europe,23396,Katelyn Adams,SUPA103,Online,58,26/02/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1455,Mauritius ,Sub-Saharan Africa,23431,Cynthia Underwood,SUPA103,Direct,148,26/02/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1456,Panama,Central America and the C,23494,Kay Dixon,SUPA103,Direct,18,26/02/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1457,Kyrgyzstan,Asia,23556,Guinevere Simpson,SUPA104,Online,62,26/02/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1458,Unknown,Unknown,23428,Sigourney Bullock,PURA100,Direct,153,27/02/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1459,Seychelles ,Sub-Saharan Africa,23667,Evelyn Cherry,PURA500,Retail,127,27/02/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1460,Saint Lucia,Central America and the C,23452,Simon Carlson,SUPA104,Online,163,28/02/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1461,Gabon,Sub-Saharan Africa,23361,Benedict Byrd,SUPA105,Online,177,01/03/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1462,Unknown,Unknown,23477,Lani Floyd,SUPA104,Online,164,01/03/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1463,Kazakhstan,Asia,23601,Keith Velez,PURA500,Retail,4,02/03/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1464,Trinidad and Tobago,Central America and the C,23608,Ainsley Chan,SUPA104,Retail,128,03/03/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1465,Romania,Europe,23671,Hadassah Hodge,SUPA105,Retail,123,03/03/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1466,Pakistan,Middle East and North Afr,23613,Zeus Barr,SUPA104,Direct,170,04/03/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1467,Unknown,Unknown,23301,Maxwell Parker,SUPA103,Online,108,05/03/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1468,Estonia,Europe,23518,Ginger Boyd,SUPA103,Retail,2,05/03/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1469,Lebanon,Middle East and North Afr,23613,Zeus Barr,SUPA101,Direct,191,05/03/2019,SUPA101,Super Soft - Product Sample,0.3,0
+1470,Mauritania,Sub-Saharan Africa,23378,Brynne Mcgowan,PURA100,Retail,21,06/03/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1471,Afghanistan,Middle East and North Afr,23628,Erich Little,PURA100,Direct,16,06/03/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1472,Belize,Central America and the C,23288,Ingrid Bush,PURA200,Retail,191,07/03/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1473,Monaco,Europe,23317,Kay Buckley,SUPA102,Online,178,07/03/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1474,Burundi,Sub-Saharan Africa,23317,Kay Buckley,PURA250,Direct,13,08/03/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1475,Barbados,Central America and the C,23515,Patience Grant,SUPA103,Online,11,09/03/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1476,Jordan,Middle East and North Afr,23470,Herrod Byers,PURA200,Online,129,10/03/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1477,Costa Rica,Central America and the C,23504,Lysandra Erickson,SUPA103,Direct,105,11/03/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1478,Unknown,Unknown,23346,Aretha Patton,SUPA104,Retail,13,13/03/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1479,Andorra,Europe,23416,Isadora Ford,SUPA105,Online,5,13/03/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1480,Togo,Sub-Saharan Africa,23336,Petra Mckenzie,PURA500,Retail,126,14/03/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1481,Yemen,Middle East and North Afr,23459,Jordan Gordon,SUPA105,Direct,103,14/03/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1482,Poland,Europe,23515,Patience Grant,SUPA102,Retail,152,14/03/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1375,Dominican Republic,Central America and the C,23630,Hunter Kirkland,PURA500,Direct,179,15/03/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1483,Mozambique,Sub-Saharan Africa,23377,Eleanor Hopper,SUPA102,Online,1,17/03/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1484,Fiji,Australia and Oceania,23657,Aimee James,SUPA104,Online,77,17/03/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1485,Albania,Europe,23574,Griffin Gray,SUPA103,Direct,96,18/03/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1486,Mozambique,Sub-Saharan Africa,23499,Eve Perry,PURA100,Retail,116,19/03/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1487,Saudi Arabia,Middle East and North Afr,23570,Kiara Lucas,PURA250,Online,133,20/03/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1488,Unknown,Unknown,23329,Melinda Cobb,PURA250,Retail,203,22/03/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1489,Norway,Europe,23361,Benedict Byrd,SUPA102,Direct,21,23/03/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1491,Morocco,Middle East and North Afr,23517,Florence Hutchinson,PURA100,Online,135,23/03/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1492,Albania,Europe,23276,Hayes Rollins,PURA500,Direct,126,24/03/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1493,Japan,Asia,23455,Abraham Mcguire,PURA200,Online,62,27/03/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1494,Unknown,Unknown,23368,Emerson Beard,SUPA102,Retail,150,28/03/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1495,Cyprus,Europe,23667,Evelyn Cherry,PURA200,Online,70,28/03/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1496,Malta,Europe,23613,Zeus Barr,SUPA103,Retail,165,31/03/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1497,Oman,Middle East and North Afr,23396,Katelyn Adams,PURA500,Online,39,01/04/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1498,Cape Verde,Sub-Saharan Africa,23559,Jesse Austin,PURA200,Direct,17,01/04/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1499,Mauritania,Sub-Saharan Africa,23435,Holmes Graves,PURA200,Retail,29,02/04/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1500,Armenia,Europe,23568,Harding Larson,PURA500,Retail,102,02/04/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1134,Bosnia and Herzegovina,Europe,23547,Lana Norris,PURA250,Retail,91,03/04/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1502,Cyprus,Europe,23361,Benedict Byrd,PURA250,Online,90,05/04/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1503,Kyrgyzstan,Asia,23415,Colleen Huff,PURA100,Retail,190,05/04/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1504,Central African Republic,Sub-Saharan Africa,23528,Serena Buckner,PURA200,Retail,61,05/04/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1505,Bangladesh,Asia,23507,Martena Hunt,PURA250,Online,2,07/04/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1506,Slovenia,Europe,23494,Kay Dixon,PURA250,Online,23,08/04/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1507,Panama,Central America and the C,23504,Lysandra Erickson,SUPA105,Retail,101,08/04/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1508,Cameroon,Sub-Saharan Africa,23312,Thomas Barnes,SUPA103,Direct,10,09/04/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1510,Andorra,Europe,23657,Aimee James,PURA200,Online,130,09/04/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1511,Saint Lucia,Central America and the C,23667,Evelyn Cherry,SUPA105,Online,154,09/04/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1512,Costa Rica,Central America and the C,23496,Herrod Huff,PURA200,Online,167,10/04/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1513,Sudan,Sub-Saharan Africa,23312,Thomas Barnes,SUPA102,Direct,34,11/04/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1514,Fiji,Australia and Oceania,23665,Breanna Sweeney,PURA200,Retail,39,12/04/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1515,Iraq,Middle East and North Afr,23562,Hollee Lowe,SUPA104,Online,173,13/04/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1516,Slovenia,Europe,23432,Edward Pope,SUPA104,Online,40,14/04/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1517,Romania,Europe,23657,Aimee James,SUPA105,Retail,53,14/04/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1518,France,Europe,23669,Melissa Roberts,SUPA103,Retail,14,14/04/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1519,Armenia,Europe,23637,Penelope Baker,SUPA104,Online,37,16/04/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1520,Germany,Europe,23528,Serena Buckner,PURA250,Direct,146,17/04/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1521,Central African Republic,Sub-Saharan Africa,23637,Penelope Baker,SUPA102,Online,85,18/04/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1522,Unknown,Unknown,23432,Edward Pope,PURA200,Retail,110,19/04/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1523,Armenia,Europe,23532,Lysandra Hunter,SUPA102,Online,150,19/04/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1524,Bhutan,Asia,23496,Herrod Huff,SUPA103,Online,37,20/04/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1525,Morocco,Middle East and North Afr,23654,Brian Clarke,PURA200,Retail,67,20/04/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1527,Trinidad and Tobago,Central America and the C,23281,Adria Kaufman,SUPA104,Direct,53,21/04/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1528,Unknown,Unknown,23300,Rhona Clarke,SUPA104,Retail,167,22/04/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1529,Madagascar,Sub-Saharan Africa,23601,Keith Velez,SUPA102,Retail,60,22/04/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1530,Niger,Sub-Saharan Africa,23376,Imogene Bradshaw,SUPA103,Online,85,23/04/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1531,Bangladesh,Asia,23568,Harding Larson,SUPA104,Direct,25,23/04/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1532,Iceland,Europe,23628,Erich Little,PURA200,Online,142,23/04/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1533,Eritrea,Sub-Saharan Africa,23637,Penelope Baker,SUPA104,Retail,144,24/04/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1534,Unknown,Unknown,23331,Bevis Mcdonald,SUPA101,Online,51,26/04/2019,SUPA101,Super Soft - Product Sample,0.3,0
+1535,Angola,Sub-Saharan Africa,23356,Colette Sargent,SUPA102,Direct,66,26/04/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1536,Botswana,Sub-Saharan Africa,23517,Florence Hutchinson,SUPA104,Direct,133,26/04/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1537,United Kingdom,Europe,23468,Maxwell Hoffman,SUPA103,Online,89,27/04/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1538,Jordan,Middle East and North Afr,23281,Adria Kaufman,PURA500,Retail,187,28/04/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1539,Malta,Europe,23333,Sawyer Stokes,PURA250,Retail,106,28/04/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1540,Zimbabwe,Sub-Saharan Africa,23281,Adria Kaufman,SUPA104,Retail,85,30/04/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1541,Spain,Europe,23266,Celeste Pugh,PURA500,Retail,154,03/05/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1542,Malaysia,Asia,23332,Yael Carter,PURA250,Retail,203,04/05/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1543,New Zealand,Australia and Oceania,23372,Phillip Perkins,SUPA102,Online,34,04/05/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1544,Honduras,Central America and the C,23423,Ima Jensen,PURA250,Retail,121,04/05/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1545,Nepal,Asia,23455,Abraham Mcguire,PURA200,Direct,105,04/05/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1546,Madagascar,Sub-Saharan Africa,23494,Kay Dixon,PURA250,Retail,30,04/05/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1547,France,Europe,23345,Devin Abbott,SUPA105,Online,208,05/05/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1548,Sierra Leone,Sub-Saharan Africa,23398,Susan Schultz,PURA100,Direct,147,05/05/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1549,Zambia,Sub-Saharan Africa,23416,Isadora Ford,SUPA102,Online,116,05/05/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1550,Kuwait,Middle East and North Afr,23423,Ima Jensen,SUPA104,Retail,134,05/05/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1552,Moldova ,Europe,23443,Raphael Casey,PURA250,Online,96,08/05/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1553,Italy,Europe,23328,Keaton Wolfe,SUPA103,Direct,116,09/05/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1554,Oman,Middle East and North Afr,23277,MacKenzie Moss,SUPA101,Online,157,10/05/2019,SUPA101,Super Soft - Product Sample,0.3,0
+1555,South Africa,Sub-Saharan Africa,23570,Kiara Lucas,SUPA103,Online,175,10/05/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1556,Tunisia ,Middle East and North Afr,23562,Hollee Lowe,SUPA102,Online,198,11/05/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1557,Unknown,Unknown,23338,George Best,PURA250,Online,178,12/05/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1558,Mongolia,Asia,23628,Erich Little,SUPA105,Retail,13,13/05/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1559,Unknown,Unknown,23443,Raphael Casey,SUPA103,Direct,153,14/05/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1560,Mozambique,Sub-Saharan Africa,23494,Kay Dixon,SUPA105,Retail,126,15/05/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1561,Botswana,Sub-Saharan Africa,23562,Hollee Lowe,PURA500,Online,136,17/05/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1562,Guinea-Bissau,Sub-Saharan Africa,23398,Susan Schultz,PURA100,Retail,83,18/05/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1563,Moldova ,Europe,23527,Brielle Gonzalez,SUPA102,Online,122,18/05/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1564,Cameroon,Sub-Saharan Africa,23324,Noble Warner,PURA100,Online,153,19/05/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1565,Togo,Sub-Saharan Africa,23366,Zia Mcmillan,SUPA104,Direct,102,19/05/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1566,Greece,Europe,23480,Ralph Ayala,SUPA103,Online,45,21/05/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1567,Chad,Sub-Saharan Africa,23605,Noble Diaz,SUPA105,Retail,132,21/05/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1568,Fiji,Australia and Oceania,23324,Noble Warner,SUPA102,Direct,149,22/05/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1569,Greenland,North America,23602,Wendy Hull,SUPA102,Retail,98,23/05/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1570,Pakistan,Middle East and North Afr,23323,Colby Knapp,PURA100,Direct,135,24/05/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1571,Bosnia and Herzegovina,Europe,23299,Germaine Kidd,PURA100,Online,6,25/05/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1572,Spain,Europe,23389,Cynthia Gilliam,SUPA105,Retail,87,27/05/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1573,Ireland,Europe,23397,Moses Huff,SUPA103,Direct,28,27/05/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1574,Bahrain,Middle East and North Afr,23496,Herrod Huff,SUPA104,Direct,48,27/05/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1575,Sweden,Europe,23528,Serena Buckner,SUPA105,Online,162,27/05/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1576,San Marino,Europe,23472,Zia Ayala,PURA100,Retail,104,29/05/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1577,Andorra,Europe,23304,Deanna Santana,SUPA103,Retail,35,30/05/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1578,Unknown,Unknown,23334,Silas Battle,PURA100,Direct,14,03/06/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1579,Ukraine,Europe,23533,Serina Moody,PURA200,Retail,157,03/06/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1580,Dominican Republic,Central America and the C,23574,Griffin Gray,PURA100,Direct,2,05/06/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1581,Zimbabwe,Sub-Saharan Africa,23321,Kareem Mays,PURA250,Retail,42,08/06/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1582,New Zealand,Australia and Oceania,23562,Hollee Lowe,PURA200,Direct,159,11/06/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1583,Equatorial Guinea,Sub-Saharan Africa,23328,Keaton Wolfe,PURA250,Retail,23,12/06/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1584,Oman,Middle East and North Afr,23321,Kareem Mays,SUPA102,Online,21,14/06/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1586,Andorra,Europe,23324,Noble Warner,SUPA105,Retail,86,15/06/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1587,South Africa,Sub-Saharan Africa,23334,Silas Battle,PURA500,Direct,106,17/06/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1588,Rwanda,Sub-Saharan Africa,23315,Anika Tillman,SUPA103,Direct,122,18/06/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1589,Belgium,Europe,23654,Brian Clarke,SUPA103,Direct,50,21/06/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1590,Sao Tome and Principe,Sub-Saharan Africa,23371,Doris Williams,PURA250,Direct,144,22/06/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1591,Sudan,Sub-Saharan Africa,23266,Celeste Pugh,SUPA105,Online,106,23/06/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1592,Georgia,Europe,23423,Ima Jensen,PURA100,Direct,26,24/06/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1593,Iraq,Middle East and North Afr,23455,Abraham Mcguire,PURA500,Retail,17,24/06/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1594,Malta,Europe,23313,Cruz Pacheco,PURA100,Online,96,25/06/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1595,Egypt,Middle East and North Afr,23340,Lael Gould,PURA500,Direct,20,25/06/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1596,Sao Tome and Principe,Sub-Saharan Africa,23303,Guinevere Key,SUPA105,Direct,151,26/06/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1597,Sierra Leone,Sub-Saharan Africa,23525,Sara Beck,SUPA104,Direct,48,26/06/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1598,South Africa,Sub-Saharan Africa,23403,Molly Crane,PURA250,Retail,71,27/06/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1599,Honduras,Central America and the C,23271,Athena Fitzpatrick,PURA200,Retail,50,28/06/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1600,Central African Republic,Sub-Saharan Africa,23444,Aline Leonard,PURA500,Direct,61,28/06/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1601,Ethiopia,Sub-Saharan Africa,23371,Doris Williams,PURA100,Direct,68,29/06/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1602,Poland,Europe,23485,Ebony Kirk,PURA250,Retail,186,29/06/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1603,Barbados,Central America and the C,23605,Noble Diaz,PURA100,Online,60,29/06/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1604,Afghanistan,Middle East and North Afr,23303,Guinevere Key,SUPA102,Retail,91,01/07/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1605,Japan,Asia,23321,Kareem Mays,SUPA105,Online,15,02/07/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1606,Hungary,Europe,23472,Zia Ayala,SUPA103,Online,28,03/07/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1607,Equatorial Guinea,Sub-Saharan Africa,23573,Nora Carroll,PURA250,Online,80,05/07/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1608,Japan,Asia,23334,Silas Battle,SUPA104,Retail,182,06/07/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1609,Ethiopia,Sub-Saharan Africa,23334,Silas Battle,PURA100,Retail,144,07/07/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1610,Mauritania,Sub-Saharan Africa,23324,Noble Warner,PURA200,Direct,23,08/07/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1611,Czech Republic,Europe,23321,Kareem Mays,PURA200,Retail,171,09/07/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1612,Slovakia,Europe,23351,Nyssa Quinn,PURA200,Retail,126,09/07/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1613,Cape Verde,Sub-Saharan Africa,23356,Colette Sargent,PURA250,Online,151,09/07/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1614,New Zealand,Australia and Oceania,23659,Judah Erickson,SUPA102,Retail,49,09/07/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1615,Jamaica,Central America and the C,23340,Lael Gould,SUPA102,Direct,144,10/07/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1616,Grenada,Central America and the C,23480,Ralph Ayala,PURA250,Retail,11,11/07/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1617,Sweden,Europe,23533,Serina Moody,PURA100,Retail,181,11/07/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1618,Kuwait,Middle East and North Afr,23356,Colette Sargent,PURA100,Direct,53,12/07/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1619,San Marino,Europe,23400,Ina Montgomery,PURA100,Retail,62,12/07/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1620,Poland,Europe,23353,Zahir Fields,SUPA104,Direct,34,17/07/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1621,Iceland,Europe,23472,Zia Ayala,PURA250,Direct,165,18/07/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1622,Ethiopia,Sub-Saharan Africa,23299,Germaine Kidd,SUPA103,Direct,58,19/07/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1623,Singapore,Asia,23450,Lewis Hall,PURA100,Retail,186,29/07/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1624,Ukraine,Europe,23605,Noble Diaz,PURA500,Direct,166,31/07/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1625,Turkey,Middle East and North Afr,23433,Tara Mckinney,SUPA105,Retail,48,05/08/2019,SUPA105,Super Soft Bulk - 2 Litres,8,14.5
+1626,Swaziland,Sub-Saharan Africa,23334,Silas Battle,PURA500,Online,35,06/08/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1627,United Arab Emirates,Middle East and North Afr,23321,Kareem Mays,PURA100,Direct,23,08/08/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1628,Antigua and Barbuda ,Central America and the C,23659,Judah Erickson,SUPA104,Online,185,08/08/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1629,Saint Kitts and Nevis ,Central America and the C,23303,Guinevere Key,PURA250,Retail,33,09/08/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1630,Malaysia,Asia,23278,Aphrodite Brennan,SUPA103,Direct,172,11/08/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1631,Fiji,Australia and Oceania,23483,Boris Maynard,SUPA103,Online,166,13/08/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1632,Maldives,Asia,23351,Nyssa Quinn,SUPA104,Retail,36,14/08/2019,SUPA104,Super Soft - 1 Litre,5,9.99
+1633,Liechtenstein,Europe,23397,Moses Huff,PURA500,Online,54,20/08/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1634,Georgia,Europe,23299,Germaine Kidd,SUPA103,Online,164,21/08/2019,SUPA103,Super Soft - 500ml,3.5,6.99
+1635,Latvia,Europe,23400,Ina Montgomery,PURA100,Direct,52,25/08/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1636,Guinea-Bissau,Sub-Saharan Africa,23279,Angela Wise,PURA200,Retail,13,30/08/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1637,Antigua and Barbuda ,Central America and the C,23293,Britanni Bender,PURA500,Retail,71,31/08/2019,PURA500,Pure Soft Detergent - 500ml,3.5,6.5
+1638,Malaysia,Asia,23334,Silas Battle,PURA100,Direct,18,02/09/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1639,Palau,Australia and Oceania,23397,Moses Huff,PURA200,Retail,132,08/09/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1640,Central African Republic,Sub-Saharan Africa,23442,Timon Kline,PURA250,Retail,97,13/09/2019,PURA250,Pure Soft Detergent - 250ml,2.3,4.5
+1641,Belgium,Europe,23313,Cruz Pacheco,PURA100,Direct,91,18/09/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1642,Haiti,Central America and the C,23433,Tara Mckinney,SUPA102,Retail,107,20/09/2019,SUPA102,Super Soft - 250ml,2.5,4.5
+1643,France,Europe,23273,Isaac Cooper,PURA200,Direct,146,09/10/2019,PURA200,Pure Soft Detergent - 200ml,2,3.99
+1644,Guinea,Sub-Saharan Africa,23630,Hunter Kirkland,PURA100,Retail,77,18/10/2019,PURA100,Pure Soft Detergent - 100ml,1.5,3
+1645,Norway,Europe,23333,Sawyer Stokes,SUPA103,Direct,199,02/11/2019,SUPA103,Super Soft - 500ml,3.5,6.99
